@@ -1,0 +1,551 @@
+,artist_name,followers,genre,popularity,ID
+0,Lindsey Stirling,"{'href': None, 'total': 1532973}","['bow pop', 'pop violin']",69,378dH6EszOLFShpRzAQkVM
+1,Peach Pit,"{'href': None, 'total': 248847}","['indie pop', 'modern rock', 'vancouver indie']",66,6fC2AcsQtd9h4BWELbbire
+2,Will Smith,"{'href': None, 'total': 646208}",['hip hop'],71,41qil2VaGbD194gaEcmmyx
+3,Witt Lowry,"{'href': None, 'total': 377726}","['indie pop rap', 'pop rap']",67,5ghnxpW47ojtLHHyTLdxdY
+4,Bill Withers,"{'href': None, 'total': 815504}","['classic soul', 'funk', 'motown', 'quiet storm', 'soul']",70,1ThoqLcyIYvZn7iWbj8fsj
+5,Chris Janson,"{'href': None, 'total': 176589}","['contemporary country', 'country road', 'modern country rock']",64,60gmlHZmT16wiO9GiXKYK9
+6,Sigala,"{'href': None, 'total': 1088281}","['dance pop', 'edm', 'pop', 'tropical house']",76,1IueXOQyABrMOprrzwQJWN
+7,The Cranberries,"{'href': None, 'total': 1980484}","['irish rock', 'pop rock']",74,7t0rwkOPGlDPEhaOcVtOt9
+8,Erykah Badu,"{'href': None, 'total': 1740541}","['afrofuturism', 'hip hop', 'neo soul', 'r&b', 'soul', 'urban contemporary']",68,7IfculRW2WXyzNQ8djX8WX
+9,Duki,"{'href': None, 'total': 2945844}","['argentine hip hop', 'trap argentino']",81,1bAftSH8umNcGZ0uyV7LMg
+10,Claude Debussy,"{'href': None, 'total': 888059}","['classical', 'post-romantic era']",70,1Uff91EOsvd99rtAupatMP
+11,Sage The Gemini,"{'href': None, 'total': 663502}","['dance pop', 'hyphy', 'pop rap', 'rap', 'southern hip hop', 'trap']",68,6d47Z08T4snK50HgTEHo5Z
+12,Slim Jxmmi,"{'href': None, 'total': 82440}",['trap'],68,7EEiVZvj6RCEtVX2F2pyxu
+13,Juan Gabriel,"{'href': None, 'total': 4146559}","['cancion melodica', 'latin', 'latin pop']",75,2MRBDr0crHWE5JwPceFncq
+14,Brandy,"{'href': None, 'total': 1596902}","['dance pop', 'hip hop', 'hip pop', 'neo soul', 'pop', 'pop rap', 'r&b', 'urban contemporary']",68,05oH07COxkXKIMt6mIPRee
+15,Tears For Fears,"{'href': None, 'total': 1518278}","['dance rock', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'rock', 'soft rock', 'synthpop']",71,4bthk9UfsYUYdcFyqxmSUU
+16,Cartel De Santa,"{'href': None, 'total': 5581692}","['latin hip hop', 'mexican hip hop']",77,07PdYoE4jVRF6Ut40GgVSP
+17,Lost Kings,"{'href': None, 'total': 230769}","['dance pop', 'edm', 'indie poptimism', 'pop', 'pop edm', 'post-teen pop', 'tropical house']",67,3hyEbRtp617pNCuuQjyOmc
+18,Lane 8,"{'href': None, 'total': 168390}","['gauze pop', 'progressive house', 'tropical house']",69,27gtK7m9vYwCyJ04zz0kIb
+19,Pedro Cap√≥,"{'href': None, 'total': 1029088}","['latin', 'latin pop', 'puerto rican pop']",79,4QVBYiagIaa6ZGSPMbybpy
+20,Shaggy,"{'href': None, 'total': 1313916}","['dance pop', 'pop rap', 'reggae fusion']",72,5EvFsr3kj42KNv97ZEnqij
+21,DRAM,"{'href': None, 'total': 765651}","['pop rap', 'rap', 'trap']",66,5M0lbkGluOPXLeFjApw8r8
+22,Lute,"{'href': None, 'total': 57461}","['nc hip hop', 'underground hip hop']",65,75WcpJKWXBV3o3cfluWapK
+23,FKJ,"{'href': None, 'total': 687121}","['filter house', 'indie soul']",70,2FwDTncULUnmANIh7qKa5z
+24,deadmau5,"{'href': None, 'total': 2413332}","['big room', 'canadian electronic', 'edm', 'electro house', 'progressive house']",69,2CIMQHirSU0MQqyYHq0eOx
+25,Xavier Wulf,"{'href': None, 'total': 254160}","['dark trap', 'emo rap', 'underground hip hop', 'vapor trap']",64,3uo0ix4Y67XHVWBhXXIY1S
+26,Raffi,"{'href': None, 'total': 67037}","[""canadian children's music"", ""children's folk"", ""children's music""]",64,7oWSqrgMuIEyH9qp5nu2e5
+27,Anitta,"{'href': None, 'total': 9007118}","['baile pop', 'funk carioca', 'funk das antigas']",84,7FNnA9vBm6EKceENgCGRMb
+28,Dean Martin,"{'href': None, 'total': 858835}","['adult standards', 'easy listening', 'lounge', 'vocal jazz']",68,49e4v89VmlDcFCMyDv9wQ9
+29,Mabel,"{'href': None, 'total': 680791}","['dance pop', 'pop', 'post-teen pop', 'tropical house', 'uk pop']",79,1MIVXf74SZHmTIp4V4paH4
+30,George Jones,"{'href': None, 'total': 585583}","['country', 'country rock', 'honky tonk']",64,2OpqcUtj10HHvGG6h9VYC5
+31,Sade,"{'href': None, 'total': 1880679}","['british soul', 'neo soul']",70,47zz7sob9NUcODy0BTDvKx
+32,Method Man,"{'href': None, 'total': 1106138}","['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap', 'southern hip hop']",69,4VmEWwd8y9MCLwexFMdpwt
+33,Ray LaMontagne,"{'href': None, 'total': 743316}","['acoustic pop', 'indie folk', 'neo mellow', 'pop rock', 'stomp and holler']",67,6DoH7ywD5BcQvjloe9OcIj
+34,Birdy,"{'href': None, 'total': 3011625}","['neo mellow', 'pop']",73,2WX2uTcsvV5OnS0inACecP
+35,ZHU,"{'href': None, 'total': 542001}","['edm', 'house']",69,28j8lBWDdDSHSSt5oPlsX2
+36,Faith Hill,"{'href': None, 'total': 1065204}","['contemporary country', 'country', 'country dawn', 'country road', 'pop rock']",66,25NQNriVT2YbSW80ILRWJa
+37,Victorious Cast,"{'href': None, 'total': 1178280}","['dance pop', 'post-teen pop', 'social media pop', 'viral pop']",66,1KYszkVzlhV3rAqmAcYIgd
+38,JP Cooper,"{'href': None, 'total': 501554}","['dance pop', 'neo mellow', 'pop', 'tropical house', 'uk pop']",75,4kYGAK2zu9EAomwj3hXkXy
+39,Jessie J,"{'href': None, 'total': 7270848}","['dance pop', 'pop', 'pop rap', 'post-teen pop', 'uk pop', 'viral pop']",74,2gsggkzM5R49q6jpPvazou
+40,Zeds Dead,"{'href': None, 'total': 432687}","['brostep', 'canadian electronic', 'edm', 'electro house', 'electronic trap', 'progressive electro house']",65,67qogtRNI0GjUr8PlaG6Zh
+41,John K,"{'href': None, 'total': 26752}",[ëedmí],68,73eAAfRkS2Vi4hx68oTJJE
+42,Petit Biscuit,"{'href': None, 'total': 711822}","['new french touch', 'tropical house']",71,6gK1Uct5FEdaUWRWpU4Cl2
+43,Above & Beyond,"{'href': None, 'total': 575768}","['edm', 'progressive house', 'progressive trance', 'trance', 'uplifting trance']",69,10gzBoINW3cLJfZUka8Zoe
+44,Lentra,"{'href': None, 'total': 8347}",['canadian hip hop'],67,484bfoveqgHfx2VhNY4zzT
+45,Iron Maiden,"{'href': None, 'total': 5216380}","['album rock', 'hard rock', 'metal', 'nwobhm', 'rock']",75,6mdiAmATAx73kdxrNrnlao
+46,Louis Tomlinson,"{'href': None, 'total': 3041126}","['dance pop', 'pop', 'post-teen pop']",74,57WHJIHrjOE3iAxpihhMnp
+47,Grupo Bryndis,"{'href': None, 'total': 769238}","['banda', 'cumbia', 'grupera', 'gruperas inmortales', 'norteno', 'regional mexican']",68,44WCHvwXBOMz6nm7Mu2ReO
+48,Maggie Lindemann,"{'href': None, 'total': 1032047}","['dance pop', 'pop', 'post-teen pop', 'social media pop', 'viral pop']",70,0uGk2czvcpWQA383Im6ajf
+49,Alanis Morissette,"{'href': None, 'total': 1550234}","['alternative rock', 'canadian pop', 'canadian singer-songwriter', 'pop rock', 'singer-songwriter']",71,6ogn9necmbUdCppmNnGOdi
+50,Armin van Buuren,"{'href': None, 'total': 3388077}","['edm', 'progressive house', 'trance']",78,0SfsnGyD8FpIN4U4WCkBZ5
+51,Seeb,"{'href': None, 'total': 140760}","['dance pop', 'edm', 'electro house', 'norwegian pop', 'pop', 'pop edm', 'swedish pop', 'tropical house']",75,5iNrZmtVMtYev5M9yoWpEq
+52,The Piano Guys,"{'href': None, 'total': 1014949}","['bow pop', 'classify']",69,0jW6R8CVyVohuUJVcuweDI
+53,j'san,"{'href': None, 'total': 36750}","['chillhop', 'lo-fi beats']",69,5iMUho98faEp2w6j5p44PH
+54,Auli'i Cravalho,"{'href': None, 'total': 45030}","['disney', 'hollywood', 'movie tunes', 'show tunes']",68,5mnS9jJdKQQcRSqFu5YPVe
+55,Hillsong Young & Free,"{'href': None, 'total': 735753}","['ccm', 'christian music', 'world worship', 'worship']",68,7m4gF38CPATtHrk5HS42WZ
+56,Rafa Pab√∂n,"{'href': None, 'total': 57546}",['reggaeton flow'],79,11YLRSsZA3YVuQQtHXKTlz
+57,Cigarettes After Sex,"{'href': None, 'total': 1410182}","['dream pop', 'el paso indie', 'shoegaze']",73,1QAJqy2dA3ihHBFIHRphZj
+58,Mau y Ricky,"{'href': None, 'total': 1792455}","['latin', 'latin pop', 'reggaeton']",80,2wkoKEfS6dXwThbyTnZWFU
+59,Queens of the Stone Age,"{'href': None, 'total': 2204521}","['alternative metal', 'alternative rock', 'blues rock', 'garage rock', 'modern rock', 'nu metal', 'palm desert scene', 'post-grunge', 'rock', 'stoner metal', 'stoner rock']",72,4pejUc4iciQfgdX6OKulQn
+60,Yaviah,"{'href': None, 'total': 67246}","['latin', 'latin hip hop', 'reggaeton', 'tropical']",72,0Y30TbA4p8SAfCzy2AFBa8
+61,Almighty,"{'href': None, 'total': 244715}","['reggaeton flow', 'trap latino']",74,6P6GTRTigHBp8ZesNtpCKH
+62,The Cars,"{'href': None, 'total': 851587}","['album rock', 'art rock', 'classic rock', 'dance rock', 'folk rock', 'hard rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'pop rock', 'power pop', 'rock', 'soft rock']",67,6DCIj8jNaNpBz8e5oKFPtp
+63,Yusuf / Cat Stevens,"{'href': None, 'total': 988376}","['british folk', 'classic rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'singer-songwriter', 'soft rock']",72,08F3Y3SctIlsOEmKd6dnH8
+64,SadBoyProlific,"{'href': None, 'total': 92620}",['emo rap'],68,0inkJpjAKDnQOv2VHBCU0Z
+65,Yung Bans,"{'href': None, 'total': 419276}","['rap', 'southern hip hop', 'trap', 'underground hip hop', 'vapor trap']",66,6WkUZyqghQei2G809wMKuZ
+66,Eladio Carrion,"{'href': None, 'total': 216832}","['reggaeton', 'reggaeton flow', 'trap argentino', 'trap latino']",75,5XJDexmWFLWOkjOEjOVX3e
+67,Ludovico Einaudi,"{'href': None, 'total': 1703280}","['bow pop', 'compositional ambient', 'neo-classical']",79,2uFUBdaVGtyMqckSeCl0Qj
+68,Gavin DeGraw,"{'href': None, 'total': 991846}","['acoustic pop', 'neo mellow', 'pop', 'pop rock']",68,5DYAABs8rkY9VhwtENoQCz
+69,The Band,"{'href': None, 'total': 598400}","['album rock', 'blues rock', 'classic canadian rock', 'classic rock', 'cosmic american', 'country rock', 'folk', 'folk rock', 'heartland rock', 'jam band', 'mellow gold', 'psychedelic rock', 'rock', 'roots rock', 'soft rock', 'traditional folk']",66,4vpDg7Y7fU982Ds30zawDA
+70,The Pussycat Dolls,"{'href': None, 'total': 3358968}","['dance pop', 'girl group', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']",73,6wPhSqRtPu1UhRCDX5yaDJ
+71,Adriel Favela,"{'href': None, 'total': 672792}",['regional mexican pop'],70,0PrhwIWbqYFYyY2ZrkIWgI
+72,Zion,"{'href': None, 'total': 1657368}","['latin', 'latin hip hop', 'reggaeton', 'reggaeton flow', 'tropical']",79,1pgDilWYDWLoOgGjf1iHNu
+73,Skepta,"{'href': None, 'total': 728906}","['birmingham grime', 'grime', 'instrumental grime', 'rap']",78,2p1fiYHYiXz9qi0JJyxBzN
+74,Passenger,"{'href': None, 'total': 2505374}","['folk-pop', 'neo mellow', 'pop']",75,0gadJ2b9A4SKsB1RFkBb66
+75,Janet Jackson,"{'href': None, 'total': 1943448}","['dance pop', 'hip pop', 'neo soul', 'new jack swing', 'pop', 'r&b', 'urban contemporary']",68,4qwGe91Bz9K2T8jXTZ815W
+76,boy pablo,"{'href': None, 'total': 514660}","['bedroom pop', 'bergen indie', 'indie pop', 'norwegian indie']",68,7wbkl3zgDZEoZer357mVIw
+77,ATEEZ,"{'href': None, 'total': 601755}","['k-pop', 'k-pop boy group']",72,68KmkJeZGfwe1OUaivBa2L
+78,Jackson Browne,"{'href': None, 'total': 651744}","['album rock', 'classic rock', 'country rock', 'folk', 'folk rock', 'heartland rock', 'mellow gold', 'piano rock', 'rock', 'roots rock', 'singer-songwriter', 'soft rock', 'traditional folk']",66,5lkiCO9UQ8B23dZ1o0UV4m
+79,Toby Fox,"{'href': None, 'total': 280441}",['indie game soundtrack'],69,57DlMWmbVIf2ssJ8QBpBau
+80,Flatbush Zombies,"{'href': None, 'total': 822141}","['escape room', 'hip hop', 'rap', 'underground hip hop']",66,1dqGS5sT6PE2wEvP1gROZC
+81,Two Door Cinema Club,"{'href': None, 'total': 1831909}","['indie pop', 'irish rock', 'modern alternative rock', 'modern rock', 'northern irish indie', 'rock']",71,536BYVgOnRky0xjsPT96zl
+82,Thunderstorm Sound Bank,"{'href': None, 'total': 8759}","['environmental', 'water']",66,6xQDyC92UEZQCySBNTdkyx
+83,Adam Levine,"{'href': None, 'total': 793552}","['neo mellow', 'pop rock']",71,4bYPcJP5jwMhSivRcqie2n
+84,Nio Garcia,"{'href': None, 'total': 1051376}","['latin', 'latin hip hop', 'reggaeton', 'reggaeton flow', 'tropical']",75,5hdhHgpxyniooUiQVaPxQ0
+85,Ella Fitzgerald,"{'href': None, 'total': 1550612}","['adult standards', 'jazz blues', 'swing', 'vocal jazz']",70,5V0MlUE1Bft0mbLlND7FJz
+86,Lindsey Stirling,"{'href': None, 'total': 1532973}","['bow pop', 'pop violin']",69,378dH6EszOLFShpRzAQkVM
+87,Will Smith,"{'href': None, 'total': 646208}",['hip hop'],71,41qil2VaGbD194gaEcmmyx
+88,Witt Lowry,"{'href': None, 'total': 377726}","['indie pop rap', 'pop rap']",67,5ghnxpW47ojtLHHyTLdxdY
+89,Bill Withers,"{'href': None, 'total': 815504}","['classic soul', 'funk', 'motown', 'quiet storm', 'soul']",70,1ThoqLcyIYvZn7iWbj8fsj
+90,Chris Janson,"{'href': None, 'total': 176589}","['contemporary country', 'country road', 'modern country rock']",64,60gmlHZmT16wiO9GiXKYK9
+91,KALEO,"{'href': None, 'total': 917161}","['icelandic indie', 'icelandic rock', 'modern alternative rock', 'modern rock']",71,7jdFEYD2LTYjfwxOdlVjmc
+92,Sigala,"{'href': None, 'total': 1088281}","['dance pop', 'edm', 'pop', 'tropical house']",76,1IueXOQyABrMOprrzwQJWN
+93,The Cranberries,"{'href': None, 'total': 1980484}","['irish rock', 'pop rock']",74,7t0rwkOPGlDPEhaOcVtOt9
+94,Erykah Badu,"{'href': None, 'total': 1740541}","['afrofuturism', 'hip hop', 'neo soul', 'r&b', 'soul', 'urban contemporary']",68,7IfculRW2WXyzNQ8djX8WX
+95,Duki,"{'href': None, 'total': 2945844}","['argentine hip hop', 'trap argentino']",81,1bAftSH8umNcGZ0uyV7LMg
+96,Claude Debussy,"{'href': None, 'total': 888059}","['classical', 'post-romantic era']",70,1Uff91EOsvd99rtAupatMP
+97,Sage The Gemini,"{'href': None, 'total': 663502}","['dance pop', 'hyphy', 'pop rap', 'rap', 'southern hip hop', 'trap']",68,6d47Z08T4snK50HgTEHo5Z
+98,Slim Jxmmi,"{'href': None, 'total': 82440}",['trap'],68,7EEiVZvj6RCEtVX2F2pyxu
+99,Juan Gabriel,"{'href': None, 'total': 4146559}","['cancion melodica', 'latin', 'latin pop']",75,2MRBDr0crHWE5JwPceFncq
+100,Aries,"{'href': None, 'total': 153824}","['emo rap', 'pop rap', 'underground hip hop', 'vapor trap']",66,3hOdow4ZPmrby7Q1wfPLEy
+101,Keala Settle,"{'href': None, 'total': 122901}","['broadway', 'hollywood', 'show tunes']",70,7HV2RI2qNug4EcQqLbCAKS
+102,K.Flay,"{'href': None, 'total': 309084}","['escape room', 'hip pop', 'indie poptimism', 'indietronica', 'modern alternative rock', 'modern rock', 'rock']",67,0pCNk4D3E2xtszsm6hMsWr
+103,Sleep Baby Sleep,"{'href': None, 'total': 20645}",['sleep'],67,6e5ygqf81ECK33tTPpbLLq
+104,Mahalia,"{'href': None, 'total': 351584}","['alternative r&b', 'indie anthem-folk', 'indie r&b', 'indie soul', 'pop', 'uk contemporary r&b']",70,16rCzZOMQX7P8Kmn5YKexI
+105,Jinsang,"{'href': None, 'total': 144114}","['chillhop', 'japanese chillhop', 'korean r&b', 'lo-fi beats']",67,5FsfZj0Mp6YwEWytuJUcWt
+106,Killswitch Engage,"{'href': None, 'total': 1156827}","['alternative metal', 'boston metal', 'groove metal', 'melodic metalcore', 'metalcore', 'nu metal', 'post-grunge']",67,37394IP6uhnjIpsawpMu4l
+107,REO Speedwagon,"{'href': None, 'total': 1167902}","['album rock', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'heartland rock', 'mellow gold', 'pop rock', 'rock', 'soft rock']",67,55vs7NT1KxcFjbMC4y202E
+108,Rockabye Baby!,"{'href': None, 'total': 162512}",['lullaby'],65,5bHjVR4F2Tfq4Ha6x7K6wU
+109,Kenny Loggins,"{'href': None, 'total': 515387}","['album rock', 'mellow gold', 'new wave pop', 'soft rock', 'yacht rock']",69,3Y3xIwWyq5wnNHPp5gPjOW
+110,White Noise Meditation,"{'href': None, 'total': 4494}",['sleep'],64,0zaYnC5jWu6BKBz3vnNyZ6
+111,Tycho,"{'href': None, 'total': 552858}","['chillwave', 'downtempo', 'indietronica', 'intelligent dance music']",66,5oOhM2DFWab8XhSdQiITry
+112,Estelle,"{'href': None, 'total': 184407}",['r&b'],68,5T0MSzX9RC5NA6gAI6irSn
+113,Lil' Kim,"{'href': None, 'total': 893957}","['dance pop', 'east coast hip hop', 'escape room', 'hip hop', 'hip pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap queen', 'urban contemporary']",68,5tth2a3v0sWwV1C7bApBdX
+114,Mayday Parade,"{'href': None, 'total': 1057074}","['emo', 'neon pop punk', 'pop emo', 'pop punk']",66,3WfJ1OtrWI7RViX9DMyEGy
+115,Sofia Carson,"{'href': None, 'total': 2042426}","['post-teen pop', 'social media pop']",71,7bp2lSdh12wcA8LyB1srfJ
+116,Highly Suspect,"{'href': None, 'total': 381696}","['modern alternative rock', 'modern rock', 'rock']",65,2pqd3HsfsvcBGtHvPOg6eg
+117,Wifisfuneral,"{'href': None, 'total': 434844}","['dark trap', 'florida rap', 'miami hip hop', 'rap', 'trap', 'underground hip hop', 'vapor trap']",64,1vb1XqzyNMQ16BqbxRz5BV
+118,Wyclef Jean,"{'href': None, 'total': 212754}",['rap kreyol'],71,7aBzpmFXB4WWpPl2F7RjBe
+119,Matthew West,"{'href': None, 'total': 516612}","['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",64,6e8OTLDQpaz1Tl2GEaxsNj
+120,Felix Jaehn,"{'href': None, 'total': 969702}","['dance pop', 'edm', 'electro house', 'german dance', 'pop', 'tropical house']",79,4bL2B6hmLlMWnUEZnorEtG
+121,Swizz Beatz,"{'href': None, 'total': 271299}","['battle rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",66,2cADQgiLMjNhbsfeN52Bf3
+122,AWOLNATION,"{'href': None, 'total': 1667725}","['la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'rock', 'stomp pop']",68,4njdEjTnLfcGImKZu1iSrz
+123,The Kinks,"{'href': None, 'total': 1467027}","['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock', 'folk rock', 'glam rock', 'mellow gold', 'protopunk', 'psychedelic rock', 'rock', 'roots rock']",70,1SQRv42e4PjEYfPhS0Tk9E
+124,Don Diablo,"{'href': None, 'total': 1583427}","['big room', 'edm', 'electro house', 'future house', 'house', 'pop', 'progressive electro house', 'progressive house', 'tropical house']",75,1l2ekx5skC4gJH8djERwh1
+125,Merle Haggard,"{'href': None, 'total': 655925}","['bakersfield sound', 'country', 'country rock', 'nashville sound', 'outlaw country']",64,2ptmyXoL7poH6Zq62h1QT9
+126,Shallou,"{'href': None, 'total': 123847}","['electropop', 'indie poptimism', 'indietronica', 'new french touch', 'tropical house', 'vapor soul']",68,7C3Cbtr2PkH2l4tOGhtCsk
+127,Big Wild,"{'href': None, 'total': 136218}","['electropop', 'indie poptimism', 'indietronica', 'tropical house', 'vapor soul', 'vapor twitch']",64,0PxzGnCYBpSuaI49OR94cA
+128,Heart,"{'href': None, 'total': 1245497}","['album rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'new wave pop', 'pop rock', 'rock', 'soft rock']",68,34jw2BbxjoYalTp8cJFCPv
+129,24hrs,"{'href': None, 'total': 130437}","['trap', 'trap soul', 'underground hip hop', 'vapor trap']",65,4isewEHTP7Az2QheDdBQ6J
+130,Binaural Beats Sleep,"{'href': None, 'total': 39408}","['binaural', 'brain waves', 'sleep']",66,5C95YXNLyaqbZjhwXMjZ4r
+131,George Michael,"{'href': None, 'total': 2324493}","['new wave pop', 'soft rock']",74,19ra5tSw0tWufvUp8GotLo
+132,George Harrison,"{'href': None, 'total': 1447460}","['album rock', 'classic rock', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'roots rock', 'soft rock']",70,7FIoB5PHdrMZVC3q2HE5MS
+133,Solange,"{'href': None, 'total': 1013495}","['afrofuturism', 'alternative r&b', 'dance pop', 'electropop', 'escape room', 'hip pop', 'indie soul', 'neo soul', 'pop', 'r&b', 'urban contemporary']",66,2auiVi8sUZo17dLy1HwrTU
+134,Hayley Williams,"{'href': None, 'total': 152919}",['pop punk'],69,6Rx1JKzBrSzoKQtmbVmBnM
+135,Bullet For My Valentine,"{'href': None, 'total': 1878078}","['alternative metal', 'melodic metalcore', 'metalcore', 'nu metal', 'post-grunge', 'uk metalcore', 'welsh metal']",70,7iWiAD5LLKyiox2grgfmUT
+136,Juhn,"{'href': None, 'total': 495040}","['latin', 'reggaeton', 'reggaeton flow', 'trap latino']",79,2LmcxBak1alK1bf7d1beTr
+137,SEVENTEEN,"{'href': None, 'total': 3431587}","['k-pop', 'k-pop boy group']",73,7nqOGRxlXj7N2JYbgNEjYH
+138,Ratatat,"{'href': None, 'total': 496057}","['alternative dance', 'new rave']",67,57dN52uHvrHOxijzpIgu3E
+139,Ab-Soul,"{'href': None, 'total': 657175}","['alternative hip hop', 'conscious hip hop', 'hip hop', 'rap', 'southern hip hop', 'underground hip hop']",65,0g9vAlRPK9Gt3FKCekk4TW
+140,Uncle Kracker,"{'href': None, 'total': 366231}","['country', 'country road', 'neo mellow', 'pop rock', 'post-grunge']",65,2DnqqkzzDKm3vAoyHtn8So
+141,Jay Critch,"{'href': None, 'total': 475721}","['nyc rap', 'rap', 'southern hip hop', 'trap', 'vapor trap']",65,6Av6GMCOznZIlHuNcBWgf4
+142,Dillon Francis,"{'href': None, 'total': 974679}","['big room', 'brostep', 'dance pop', 'edm', 'electro house', 'electronic trap', 'electropop', 'house', 'moombahton', 'pop', 'tropical house']",69,5R3Hr2cnCCjt220Jmt2xLf
+143,Cody Carnes,"{'href': None, 'total': 40102}","['anthem worship', 'ccm', 'christian pop', 'world worship', 'worship']",64,7apN8bBgl19E0Ona9pvPq0
+144,Kamaiyah,"{'href': None, 'total': 100234}",['cali rap'],65,3XVpDdKav6C6zwlDXPhMEO
+145,PUBLIC,"{'href': None, 'total': 59402}",['indie rockism'],72,4vxaQs6vK54nK89J1VtLex
+146,Motionless In White,"{'href': None, 'total': 643243}","['melodic metalcore', 'metalcore', 'post-screamo']",66,6MwPCCR936cYfM1dLsGVnl
+147,HAIM,"{'href': None, 'total': 892951}","['dance pop', 'indie pop', 'indietronica', 'metropopolis', 'pop', 'pop rock', 'rock']",69,4Ui2kfOqGujY81UcPrb5KE
+148,Wrabel,"{'href': None, 'total': 139676}","['electropop', 'indie cafe pop', 'indie pop', 'indie poptimism', 'indiecoustica', 'indietronica', 'neo mellow', 'pop', 'pop rock', 'uk pop']",67,7r2uG6BlFXKcwmh9ItqlII
+149,GASHI,"{'href': None, 'total': 128017}","['pop rap', 'trap', 'trap soul']",71,0JOxt5QOwq0czoJxvSc5hS
+150,Sheryl Crow,"{'href': None, 'total': 612506}","['folk', 'lilith', 'mellow gold', 'neo mellow', 'new wave pop', 'permanent wave', 'pop rock', 'rock']",67,4TKTii6gnOnUXQHyuo9JaD
+151,Natalia Lafourcade,"{'href': None, 'total': 2300063}","['latin', 'latin alternative', 'latin pop', 'latin rock', 'mexican pop', 'rock en espanol', 'veracruz indie']",75,1hcdI2N1023RvSwLzTtdsp
+152,DNCE,"{'href': None, 'total': 3076433}","['dance pop', 'pop', 'pop rock', 'post-teen pop']",70,6T5tfhQCknKG4UnH90qGnz
+153,Joni Mitchell,"{'href': None, 'total': 736848}","['canadian folk', 'canadian singer-songwriter', 'folk', 'folk rock', 'lilith', 'mellow gold', 'pop rock', 'rock', 'singer-songwriter', 'traditional folk']",68,5hW4L92KnC6dX9t7tYM4Ve
+154,Carnage,"{'href': None, 'total': 268178}","['edm', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']",67,7CCjtD0hCK005Bvg2WG1a7
+155,Berliner Philharmoniker,"{'href': None, 'total': 113325}","['classical', 'classical performance', 'orchestra']",72,6uRJnvQ3f8whVnmeoecv5Z
+156,Tink,"{'href': None, 'total': 451318}","['chicago rap', 'deep pop r&b', 'drill', 'r&b', 'trap queen']",64,4v6XOdonnfpdTKTRJArG7v
+157,LANCO,"{'href': None, 'total': 315236}","['contemporary country', 'country pop', 'modern country rock']",63,2lRH2dgU5Kk4Bc5phmII4T
+158,Chase Atlantic,"{'href': None, 'total': 422966}","['modern rock', 'pop']",68,7cYEt1pqMgXJdq00hAwVpT
+159,Conjunto Primavera,"{'href': None, 'total': 1048517}","['banda', 'cumbia', 'grupera', 'norteno', 'ranchera', 'regional mexican']",68,3nFB4eMP5gdqee2eQb8nZb
+160,Ginuwine,"{'href': None, 'total': 1512246}","['dance pop', 'hip hop', 'hip pop', 'neo soul', 'new jack swing', 'pop', 'r&b', 'southern hip hop', 'urban contemporary']",67,7r8RF1tN2A4CiGEplkp1oP
+161,Baby Bash,"{'href': None, 'total': 507215}","['chicano rap', 'dance pop', 'dirty south rap', 'gangster rap', 'hip hop', 'hip pop', 'latin hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'urban contemporary']",64,12PSlydMSjEHzSCj9X5qv7
+162,Kirk Franklin,"{'href': None, 'total': 735625}","['gospel', 'gospel r&b']",64,4akybxRTGHJZ1DXjLhJ1qu
+163,America,"{'href': None, 'total': 853914}","['album rock', 'art rock', 'classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'soft rock']",69,35U9lQaRWSQISxQAB94Meo
+164,Megadeth,"{'href': None, 'total': 2621323}","['album rock', 'alternative metal', 'groove metal', 'hard rock', 'melodic thrash', 'metal', 'old school thrash', 'rock', 'speed metal', 'thrash metal']",70,1Yox196W7bzVNZI7RBaPnf
+165,Astrid S,"{'href': None, 'total': 554335}","['dance pop', 'electropop', 'norwegian pop', 'pop', 'post-teen pop', 'tropical house']",73,3AVfmawzu83sp94QW7CEGm
+166,Maxo Kream,"{'href': None, 'total': 275699}","['hip hop', 'houston rap', 'melodic rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop', 'vapor trap']",63,6xS5PpBWaVYraexEkEjjXv
+167,Blue √ñyster Cult,"{'href': None, 'total': 841528}","['album rock', 'art rock', 'blues rock', 'classic rock', 'hard rock', 'metal', 'psychedelic rock', 'rock', 'soft rock']",66,00tVTdpEhQQw1bqdu8RCx2
+168,John Lennon,"{'href': None, 'total': 3291502}","['album rock', 'art rock', 'classic rock', 'folk rock', 'mellow gold', 'rock']",72,4x1nvY2FN8jxqAFA0DA02H
+169,Snakehips,"{'href': None, 'total': 311504}","['dance pop', 'edm', 'electropop', 'indie poptimism', 'pop', 'tropical house']",68,2FwJwEswyIUAljqgjNSHgP
+170,Pinkfong,"{'href': None, 'total': 70219}","['cartoon', ""children's music"", 'dong-yo']",69,7cTXfwpe9peK0UE1bZyIWZ
+171,Stormzy,"{'href': None, 'total': 1557119}","['grime', 'uk hip hop']",81,2SrSdSvpminqmStGELCSNd
+172,Jack & Jack,"{'href': None, 'total': 1137104}","['dance pop', 'pop', 'post-teen pop', 'teen pop']",71,1INuLZXjjVbcJRyWvD1iSq
+173,Creed,"{'href': None, 'total': 1783268}","['alternative metal', 'nu metal', 'pop rock', 'post-grunge', 'rock']",68,43sZBwHjahUvgbx1WNIkIz
+174,King Krule,"{'href': None, 'total': 476314}",['art pop'],67,4wyNyxs74Ux8UIDopNjIai
+175,Mick Gordon,"{'href': None, 'total': 103775}","['electronic djent', 'video game music']",67,13ab1LgQZ3tQOhkDRRYB8Y
+176,Styx,"{'href': None, 'total': 937943}","['album rock', 'art rock', 'classic rock', 'folk rock', 'hard rock', 'mellow gold', 'progressive rock', 'rock', 'soft rock', 'symphonic rock']",64,4salDzkGmfycRqNUbyBphh
+177,Nelly Furtado,"{'href': None, 'total': 1890717}","['canadian latin', 'canadian pop', 'dance pop', 'pop', 'pop rap', 'pop rock']",72,2jw70GZXlAI8QzWeY2bgRc
+178,Phantogram,"{'href': None, 'total': 550592}","['alternative dance', 'chillwave', 'dream pop', 'electropop', 'indie pop', 'indie rock', 'indietronica', 'metropopolis', 'modern rock', 'shimmer pop', 'vapor soul']",64,1l9d7B8W0IHy3LqWsxP2SH
+179,Thomas Newman,"{'href': None, 'total': 153928}",['soundtrack'],68,1csBgT42N4pPPs1HJhxXIK
+180,Ricardo Arjona,"{'href': None, 'total': 4714431}","['cantautor', 'latin', 'latin arena pop', 'latin pop', 'rock en espanol', 'tropical']",77,0h1zs4CTlU9D2QtgPxptUD
+181,Madlib,"{'href': None, 'total': 211934}","['alternative hip hop', 'funk', 'hip hop']",65,5LhTec3c7dcqBvpLRWbMcf
+182,Intocable,"{'href': None, 'total': 1312801}","['banda', 'grupera', 'latin', 'latin pop', 'norteno', 'ranchera', 'regional mexican', 'tejano']",72,108moq3rq6bm1M4Ypz0J02
+183,Mother Mother,"{'href': None, 'total': 228879}","['canadian indie', 'indie pop', 'indie rock', 'modern alternative rock', 'modern rock', 'rock', 'vancouver indie']",65,0e86yPdC41PGRkLp2Q1Bph
+184,Christopher Jackson,"{'href': None, 'total': 22932}","['hollywood', 'show tunes']",65,6sLwRSXSUF5JTUnQaFenyj
+185,Simple Plan,"{'href': None, 'total': 2417791}","['canadian pop punk', 'canadian punk', 'canadian rock', 'pop punk', 'post-grunge']",71,2p4FqHnazRucYQHyDCdBrJ
+186,Ryan Hurd,"{'href': None, 'total': 76950}","['contemporary country', 'country pop']",63,7lDVEkjIURPMyUYwoQRrpw
+187,Said the Sky,"{'href': None, 'total': 160719}","['edm', 'electropop', 'melodic dubstep', 'pop edm']",64,4LZ4De2MoO3lP6QaNCfvcu
+188,JPEGMAFIA,"{'href': None, 'total': 207079}","['alternative hip hop', 'escape room', 'experimental hip hop', 'hip hop', 'industrial hip hop', 'rap', 'underground hip hop']",65,6yJ6QQ3Y5l0s0tn7b0arrO
+189,Kansas,"{'href': None, 'total': 838834}","['album rock', 'art rock', 'bow pop', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'progressive rock', 'rock', 'soft rock', 'symphonic rock']",68,2hl0xAkS2AIRAu23TVMBG1
+190,Sleepy Times,"{'href': None, 'total': 2707}",['sleep'],67,2tZbAzQxbp2fvMbVR9glOT
+191,Parmalee,"{'href': None, 'total': 116983}","['contemporary country', 'country', 'country pop', 'country road', 'modern country rock', 'modern uplift']",63,4TshyQDihSYXSWqvclXl3I
+192,Ugly God,"{'href': None, 'total': 1742782}","['meme rap', 'trap', 'underground hip hop', 'vapor trap']",63,3Fdm9TFJQCLmC3AWMuGExi
+193,Mick Jenkins,"{'href': None, 'total': 363982}","['chicago rap', 'conscious hip hop', 'drill', 'escape room', 'hip hop', 'rap', 'underground hip hop']",65,1FvjvACFvko2Z91IvDljrx
+194,Hayley Kiyoko,"{'href': None, 'total': 1135974}","['dance pop', 'electropop', 'indie pop', 'indie poptimism', 'pop', 'post-teen pop']",67,3LjhVl7GzYsza1biQjTpaN
+195,The Velvet Underground,"{'href': None, 'total': 1044589}","['alternative rock', 'art rock', 'classic rock', 'folk rock', 'melancholia', 'permanent wave', 'protopunk', 'psychedelic rock', 'rock']",68,1nJvji2KIlWSseXRSlNYsC
+196,Puddle Of Mudd,"{'href': None, 'total': 1128707}","['alternative metal', 'alternative rock', 'nu metal', 'post-grunge', 'rap rock', 'rock']",65,3dXaa6jwM7B52GZpaJEIr5
+197,Al Green,"{'href': None, 'total': 1235005}","['classic soul', 'funk', 'memphis soul', 'quiet storm', 'soul', 'soul blues', 'southern soul']",68,3dkbV4qihUeMsqN4vBGg93
+198,Edwin Luna y La Trakalosa de Monterrey,"{'href': None, 'total': 1657090}","['banda', 'regional mexican']",71,4LFOoXhMhnq9U8VsZkSwxl
+199,Thirty Seconds To Mars,"{'href': None, 'total': 2580166}","['modern rock', 'post-grunge', 'rock']",70,0RqtSIYZmd4fiBKVFqyIqD
+200,Unknown Mortal Orchestra,"{'href': None, 'total': 528540}","['chillwave', 'dream pop', 'indie pop', 'indie rock', 'indie soul', 'indietronica', 'kiwi rock', 'neo-psychedelic', 'new rave', 'portland hip hop']",66,1LeVJ5GPeYDOVUjxx1y7Rp
+201,Thousand Foot Krutch,"{'href': None, 'total': 763286}","['alternative metal', 'canadian ccm', 'canadian metal', 'canadian rock', 'christian alternative rock', 'christian rock', 'nu metal', 'post-grunge', 'rap metal']",68,6GfiCQDFYANz5wUkSmb3Dr
+202,Michael Giacchino,"{'href': None, 'total': 154669}",['soundtrack'],67,4kLvhMAuCloLxoP1aVM7Lr
+203,Jeremy Soule,"{'href': None, 'total': 67018}","['scorecore', 'soundtrack', 'video game music']",66,77yY2QmM6bYvjJ3y5L2R0v
+204,Hot Chelle Rae,"{'href': None, 'total': 451125}","['dance pop', 'neo mellow', 'neon pop punk', 'pop', 'pop punk', 'pop rock', 'post-teen pop', 'viral pop']",64,6jTnHxhb6cDCaCu4rdvsQ0
+205,Birdman,"{'href': None, 'total': 642925}","['dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop']",63,35sCXuy5gN6Or69rZ9vqBs
+206,Three 6 Mafia,"{'href': None, 'total': 659917}","['crunk', 'dirty south rap', 'gangster rap', 'hip hop', 'memphis hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",62,26s8LSolLfCIY88ysQbIuT
+207,We The Kings,"{'href': None, 'total': 1025443}","['neo mellow', 'neon pop punk', 'piano rock', 'pop punk', 'pop rock', 'post-teen pop']",67,3ao3jf5d70Tf4fPh2bnXVl
+208,Randy Newman,"{'href': None, 'total': 133194}","['disney', 'movie tunes', 'singer-songwriter']",66,3HQyFCFFfJO3KKBlUfZsyW
+209,Montgomery Gentry,"{'href': None, 'total': 861235}","['contemporary country', 'country', 'country road', 'modern country rock', 'redneck']",62,3bGXaFVQLASmDMdjjeJr8a
+210,Krizz Kaliko,"{'href': None, 'total': 222450}","['country rap', 'rap rock']",63,3SEJQy90Vgg1aSnZ9b4AU9
+211,Alex & Sierra,"{'href': None, 'total': 853182}","['neo mellow', 'pop', 'post-teen pop', 'viral pop']",68,58MLl9nC29IXbE4nEtuoP2
+212,Snow Patrol,"{'href': None, 'total': 1950145}","['irish rock', 'modern rock', 'neo mellow', 'permanent wave', 'pop rock', 'rock']",71,3rIZMv9rysU7JkLzEaC5Jp
+213,Juvenile,"{'href': None, 'total': 597007}","['bounce', 'crunk', 'dirty south rap', 'gangster rap', 'hip hop', 'new orleans rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",62,0rG0AZBscc8S8q1ahIsasI
+214,Joe,"{'href': None, 'total': 973658}","['dance pop', 'hip pop', 'neo soul', 'new jack swing', 'pop rap', 'r&b', 'urban contemporary']",65,3zTOe1BtyTkwNvYZOxXktX
+215,Yellow Claw,"{'href': None, 'total': 884383}","['bass trap', 'brostep', 'edm', 'electro house', 'electronic trap']",70,47z7ZrgFoBvVpCnElCE3Zh
+216,Project Pat,"{'href': None, 'total': 370861}","['crunk', 'dirty south rap', 'gangster rap', 'memphis hip hop', 'rap', 'southern hip hop', 'trap']",62,08Ld63UgKrJ0nZnCkzHtzc
+217,N.W.A.,"{'href': None, 'total': 2819807}","['conscious hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'old school hip hop', 'rap', 'west coast rap']",67,4EnEZVjo3w1cwcQYePccay
+218,Jagged Edge,"{'href': None, 'total': 1173310}","['atl hip hop', 'dance pop', 'hip hop', 'hip pop', 'neo soul', 'new jack swing', 'pop rap', 'quiet storm', 'r&b', 'southern hip hop', 'urban contemporary']",65,7Aq8lpLMSt1Zxu56pe9bmp
+219,Ariel Camacho y Los Plebes Del Rancho,"{'href': None, 'total': 2055073}","['banda', 'regional mexican pop']",67,2Lxa3SFNEW0alfRvtdXOul
+220,Juelz Santana,"{'href': None, 'total': 439826}","['gangster rap', 'harlem hip hop', 'hip hop', 'nyc rap', 'pop rap', 'rap', 'trap']",65,6Uh8uJyN9g7oFjDK16nJgb
+221,Sik World,"{'href': None, 'total': 183797}","['pop rap', 'rap']",65,39G9Mcs99KhOEtVuthwztS
+222,Cold War Kids,"{'href': None, 'total': 618020}","['garage rock', 'indie pop', 'indie rock', 'modern alternative rock', 'modern rock', 'piano rock', 'rock', 'stomp and holler']",64,6VDdCwrBM4qQaGxoAyxyJC
+223,Barrett Wilbert Weed,"{'href': None, 'total': 31432}","['broadway', 'hollywood', 'pop', 'show tunes']",64,5yCkSShz4MTqE4Lp6fVZMz
+224,Duckwrth,"{'href': None, 'total': 150451}","['escape room', 'underground hip hop']",66,6I3MElirhT5t6Kf7p0hGk9
+225,Don Henley,"{'href': None, 'total': 747755}","['album rock', 'art rock', 'classic rock', 'country rock', 'folk', 'folk rock', 'heartland rock', 'mellow gold', 'pop rock', 'rock', 'roots rock', 'singer-songwriter', 'soft rock', 'yacht rock']",66,5dbuFbrHa1SJlQhQX9OUJ2
+226,Cyndi Lauper,"{'href': None, 'total': 1212034}","['dance pop', 'dance rock', 'europop', 'mellow gold', 'new wave pop', 'permanent wave', 'pop', 'pop rock', 'soft rock']",71,2BTZIqw0ntH9MvilQ3ewNY
+227,Mamamoo,"{'href': None, 'total': 1688011}","['k-pop', 'k-pop girl group']",72,0XATRDCYuuGhk0oE7C0o5G
+228,Shakey Graves,"{'href': None, 'total': 333003}","['austin americana', 'austindie', 'deep new americana', 'indie folk', 'indie rock', 'modern rock', 'new americana', 'stomp and holler']",63,1fZpYWNWdL5Z3wrDtISFUH
+229,Ben Howard,"{'href': None, 'total': 1700777}","['british singer-songwriter', 'fingerstyle', 'folk-pop', 'indie folk', 'neo mellow', 'stomp and holler']",71,5schNIzWdI9gJ1QRK8SBnc
+230,Trivium,"{'href': None, 'total': 957408}","['alternative metal', 'groove metal', 'melodic metalcore', 'melodic thrash', 'metal', 'metalcore', 'nu metal']",68,278ZYwGhdK6QTzE3MFePnP
+231,Jeremy Camp,"{'href': None, 'total': 590721}","['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",62,5wpEBloInversG3zp3CVAk
+232,Fleet Foxes,"{'href': None, 'total': 953960}","['chamber pop', 'freak folk', 'indie folk', 'indie pop', 'indie rock', 'modern rock', 'seattle indie', 'stomp and holler']",66,4EVpmkEwrLYEg6jIsiPMIb
+233,Gym Class Heroes,"{'href': None, 'total': 1078448}","['dance pop', 'pop', 'pop rap']",67,4IJczjB0fJ04gs4uvP0Fli
+234,Naomi Scott,"{'href': None, 'total': 191007}",['vapor pop'],68,2Zi3RrdQqk63Xj0914STkS
+235,Wiener Philharmoniker,"{'href': None, 'total': 70274}","['classical', 'classical performance', 'orchestra']",71,003f4bk13c6Q3gAUXv7dGJ
+236,GameChops,"{'href': None, 'total': 66130}",['otacore'],65,1T7zBkQCOCacKjbnmFX7cp
+237,JT Music,"{'href': None, 'total': 279266}","['antiviral pop', 'comic', 'otacore']",65,5qvrAlKjc0Sqrqz6v2wBGk
+238,Cam‚Äôron,"{'href': None, 'total': 383425}","['battle rap', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'harlem hip hop', 'hip hop', 'hip pop', 'pop rap', 'rap', 'southern hip hop', 'trap']",64,7iMvwE8qANp3aIfAGKEAwS
+239,Mase,"{'href': None, 'total': 408939}","['gangster rap', 'hardcore hip hop', 'harlem hip hop', 'hip hop', 'hip pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'urban contemporary']",66,1wiBLzTI7z9RUwEpNPdFT6
+240,Cher,"{'href': None, 'total': 1504056}","['dance pop', 'hollywood', 'new wave pop', 'pop']",71,72OaDtakiy6yFqkt4TsiFt
+241,John Michael Montgomery,"{'href': None, 'total': 544335}","['contemporary country', 'country', 'country road']",62,7mPcfx7PhnBh6n4HMCd61A
+242,Los Amables Del Norte,"{'href': None, 'total': 34640}","['corrido', 'deep regional mexican', 'norteno']",64,7r1Ecc2TAxhyLeGac53N6K
+243,Anna Kendrick,"{'href': None, 'total': 254588}","['hollywood', 'movie tunes']",66,6xfqnpe2HnLVUaYXs2F8YS
+244,Ingrid Michaelson,"{'href': None, 'total': 648434}","['acoustic pop', 'ectofolk', 'indiecoustica', 'lilith', 'neo mellow', 'pop', 'pop rock']",64,2vm8GdHyrJh2O2MfbQFYG0
+245,Common,"{'href': None, 'total': 595951}","['alternative hip hop', 'chicago rap', 'conscious hip hop', 'gangster rap', 'hip hop', 'neo soul', 'rap']",65,2GHclqNVjqGuiE5mA7BEoc
+246,CeeLo Green,"{'href': None, 'total': 406646}",['atl hip hop'],66,5nLYd9ST4Cnwy6NHaCxbj8
+247,Pepe Aguilar,"{'href': None, 'total': 2053334}","['grupera', 'latin talent show', 'mariachi', 'ranchera']",74,03Yb3iBy9GCifXiATEFcit
+248,Bad Company,"{'href': None, 'total': 572940}","['album rock', 'blues rock', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",63,5AEG63ajney2BoDXi0Vb84
+249,Poison,"{'href': None, 'total': 1915346}","['album rock', 'glam metal', 'hard rock', 'rock']",65,1fBCIkoPOPCDLUxGuWNvyo
+250,Carole King,"{'href': None, 'total': 729864}","['adult standards', 'brill building pop', 'folk', 'folk rock', 'mellow gold', 'quiet storm', 'rock', 'singer-songwriter', 'soft rock', 'soul']",67,319yZVtYM9MBGqmSQnMyY6
+251,Kina Grannis,"{'href': None, 'total': 368374}","['acoustic pop', 'neo mellow', 'pop rock', 'viral pop']",70,7h4j9YTJJuAHzLCc3KCvYu
+252,Crush,"{'href': None, 'total': 545490}","['k-pop', 'korean r&b']",69,6aLdhHUqgdKE86xbtNmY8g
+253,Leona Lewis,"{'href': None, 'total': 2212584}","['british soul', 'dance pop', 'europop', 'neo mellow', 'pop', 'post-teen pop', 'talent show', 'uk pop', 'urban contemporary']",71,5lKZWd6HiSCLfnDGrq9RAm
+254,Carlos Vives,"{'href': None, 'total': 3727737}","['champeta', 'colombian pop', 'latin', 'latin pop', 'tropical', 'vallenato']",73,4vhNDa5ycK0ST968ek7kRr
+255,BANKS,"{'href': None, 'total': 878327}","['alternative r&b', 'art pop', 'dance pop', 'electropop', 'indie poptimism', 'indie r&b', 'indietronica', 'pop']",66,2xe8IXgCTpwHE3eA9hTs4n
+256,The Internet,"{'href': None, 'total': 756157}","['alternative r&b', 'escape room', 'indie soul', 'lgbtq+ hip hop']",64,7GN9PivdemQRKjDt4z5Zv8
+257,Ramon Ayala Y Sus Bravos Del Norte,"{'href': None, 'total': 208030}","['grupera', 'norteno', 'regional mexican']",65,5j9R5dTGerKvdXopZnfJh9
+258,The Used,"{'href': None, 'total': 728735}","['emo', 'pop punk', 'post-hardcore', 'screamo']",64,55VydwMyCuGcavwPuhutPL
+259,Alfredo Olivas,"{'href': None, 'total': 2610648}","['banda', 'deep regional mexican', 'regional mexican', 'regional mexican pop']",72,5xYNmNkaWRqu3e5F4UXME8
+260,Cardenales De Nuevo Le√≥n,"{'href': None, 'total': 623904}","['banda', 'cumbia', 'grupera', 'norteno', 'ranchera', 'regional mexican']",69,0GpuSge5ffZ053NhXxgQkV
+261,Mandolin Orange,"{'href': None, 'total': 150802}","['deep new americana', 'indie folk', 'new americana', 'progressive bluegrass', 'stomp and holler']",62,675tsBPpaZtqyiBwEf3ZEP
+262,Neck Deep,"{'href': None, 'total': 448725}","['pop punk', 'uk pop punk']",65,2TM0qnbJH4QPhGMCdPt7fH
+263,Doe Boy,"{'href': None, 'total': 48656}","['atl hip hop', 'atl trap', 'rap', 'southern hip hop', 'trap', 'vapor trap']",62,6aLoJJxz7MV2iZ423S8tJC
+264,Yellowcard,"{'href': None, 'total': 1006035}","['bow pop', 'emo', 'pop punk', 'pop rock', 'post-grunge', 'socal pop punk']",64,3zxKH0qp3nBCuPZCZT5Vaf
+265,Antonio Aguilar,"{'href': None, 'total': 984671}","['banda', 'grupera', 'mariachi', 'norteno', 'ranchera', 'regional mexican']",69,0PN0fbe41KbuzlRYnoajNm
+266,Waterparks,"{'href': None, 'total': 222304}","['indie pop', 'modern alternative rock', 'modern rock', 'neon pop punk', 'pixie', 'pop punk', 'rock', 'texas pop punk']",64,3QaxveoTiMetZCMp1sftiu
+267,Mr. Probz,"{'href': None, 'total': 292450}","['dutch hip hop', 'tropical house']",70,33W1pnW9zScZtYTnAoWnOT
+268,Skizzy Mars,"{'href': None, 'total': 254825}","['deep underground hip hop', 'indie pop rap', 'pop rap', 'rap', 'underground hip hop']",62,00Z3UDoAQwzvGu13HoAM7J
+269,Duran Duran,"{'href': None, 'total': 1495537}","['dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock', 'synthpop']",69,0lZoBs4Pzo7R89JM9lxwoT
+270,Andrew Lloyd Webber,"{'href': None, 'total': 175683}","['broadway', 'show tunes', 'west end']",66,4aP1lp10BRYZO658B2NwkG
+271,Dimitri Vegas & Like Mike,"{'href': None, 'total': 2770991}","['belgian dance', 'belgian edm', 'big room', 'edm', 'electro house', 'progressive electro house', 'tropical house']",78,73jBynjsVtofjRpdpRAJGk
+272,Commodores,"{'href': None, 'total': 922704}","['adult standards', 'disco', 'funk', 'mellow gold', 'motown', 'quiet storm', 'soft rock', 'soul']",67,6twIAGnYuIT1pncMAsXnEm
+273,Phoenix,"{'href': None, 'total': 1572680}","['alternative dance', 'dance-punk', 'indie pop', 'indie rock', 'indietronica', 'modern rock', 'new rave']",66,1xU878Z1QtBldR7ru9owdU
+274,The Charlie Daniels Band,"{'href': None, 'total': 349397}","['classic rock', 'country', 'country rock', 'southern rock']",61,12d4iIvTOk7JkI6ecvc3ca
+275,Juan Luis Guerra 4.40,"{'href': None, 'total': 1707869}","['bachata', 'latin', 'latin pop', 'salsa choke', 'tropical']",72,3nlpTZci9O5W8RsNoNH559
+276,Genesis,"{'href': None, 'total': 1815467}","['album rock', 'art rock', 'classic rock', 'mellow gold', 'progressive rock', 'rock', 'soft rock', 'symphonic rock']",70,3CkvROUTQ6nRi9yQOcsB50
+277,Knxwledge,"{'href': None, 'total': 96599}","['abstract beats', 'alternative hip hop', 'alternative r&b', 'indie soul', 'wonky']",64,17Zu03OgBVxgLxWmRUyNOJ
+278,√ìlafur Arnalds,"{'href': None, 'total': 450021}","['bow pop', 'chamber pop', 'compositional ambient', 'focus', 'icelandic classical', 'neo-classical', 'neoclassical']",69,7E3BRXV9ZbCt5lQTCXMTia
+279,Eazy-E,"{'href': None, 'total': 2470285}","['g funk', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap', 'west coast rap']",65,7B4hKK0S9QYnaoqa9OuwgX
+280,Walker Hayes,"{'href': None, 'total': 216027}","['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",61,7sKxqpSqbIzphAKAhrqvlf
+281,TheFatRat,"{'href': None, 'total': 687053}",['gaming edm'],70,3OKg7YbOIatODzkRIbLJR4
+282,Zaytoven,"{'href': None, 'total': 246434}","['atl hip hop', 'atl trap', 'dirty south rap', 'gangster rap', 'melodic rap', 'rap', 'southern hip hop', 'trap', 'vapor trap']",62,1mceaxtjWdEmwoDVAlkC41
+283,Miles Davis,"{'href': None, 'total': 1760379}","['bebop', 'contemporary post-bop', 'cool jazz', 'hard bop', 'jazz', 'jazz fusion', 'jazz trumpet']",67,0kbYTNQb4Pb1rPbbaF0pT4
+284,Bush,"{'href': None, 'total': 1030769}","['alternative metal', 'alternative rock', 'grunge', 'modern rock', 'nu metal', 'pop rock', 'post-grunge', 'rap rock', 'rock']",64,78SHxLdtysAXgywQ4vE0Oa
+285,Mobb Deep,"{'href': None, 'total': 1015194}","['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'queens hip hop', 'rap']",68,6O2zJ0tId7g07yzHtX0yap
+286,King Gizzard & The Lizard Wizard,"{'href': None, 'total': 470703}","['australian indie', 'australian psych', 'neo-psychedelic']",65,6XYvaoDGE0VmRt83Jss9Sn
+287,AmaLee,"{'href': None, 'total': 218874}","['anime latino', 'otacore']",65,4sf4DrAOkheqktxTyKm7tO
+288,Bun B,"{'href': None, 'total': 517823}","['dirty south rap', 'gangster rap', 'hip hop', 'houston rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",62,45a6gCQWq61lIUDmr1tKuO
+289,Alabama Shakes,"{'href': None, 'total': 1320411}","['alabama indie', 'indie rock', 'modern blues rock', 'rock']",64,16GcWuvvybAoaHr0NqT8Eh
+290,Sylvan Esso,"{'href': None, 'total': 378416}","['art pop', 'chamber pop', 'electropop', 'etherpop', 'indie folk', 'indie pop', 'indietronica', 'shimmer pop']",63,39vA9YljbnOApXKniLWBZv
+291,Wilco,"{'href': None, 'total': 516716}","['alternative country', 'alternative rock', 'chamber pop', 'chicago indie', 'indie folk', 'indie pop', 'indie rock', 'rock', 'roots rock', 'stomp and holler']",64,2QoU3awHVdcHS8LrZEKvSM
+292,Vertical Worship,"{'href': None, 'total': 95692}","['anthem worship', 'ccm', 'christian music', 'world worship', 'worship']",62,6N6Sk9XOoHsadAGYR44C2o
+293,Alison Krauss,"{'href': None, 'total': 208654}","['bluegrass', 'folk', 'lilith', 'progressive bluegrass']",63,5J6L7N6B4nI1M5cwa29mQG
+294,Slim Thug,"{'href': None, 'total': 506397}","['crunk', 'dirty south rap', 'gangster rap', 'hip hop', 'houston rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",61,0st5vgzw9XkH5ALJiUM1lE
+295,LL Cool J,"{'href': None, 'total': 878261}","['east coast hip hop', 'hardcore hip hop', 'hip hop', 'hip pop', 'new jack swing', 'old school hip hop', 'pop rap', 'queens hip hop', 'r&b', 'rap', 'southern hip hop', 'urban contemporary']",65,1P8IfcNKwrkQP5xJWuhaOC
+296,KB,"{'href': None, 'total': 233055}","['christian hip hop', 'christian trap']",61,77IKXFvO7SpWrq8hflrUXc
+297,Lea Salonga,"{'href': None, 'total': 117034}","['hollywood', 'movie tunes', 'show tunes', 'tagalog worship']",65,1GlMjIezcLwV3OFlX0uXOv
+298,Los Alegres Del Barranco,"{'href': None, 'total': 274395}","['corrido', 'deep regional mexican', 'norteno', 'regional mexican', 'regional mexican pop']",63,2TSslwx9J30KElgEr68sdv
+299,New Order,"{'href': None, 'total': 1137382}","['art rock', 'britpop', 'dance rock', 'madchester', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'post-punk', 'rock', 'synthpop', 'uk post-punk']",69,0yNLKJebCb8Aueb54LYya3
+300,Tammi Terrell,"{'href': None, 'total': 94173}",['motown'],67,75jNCko3SnEMI5gwGqrbb8
+301,Los Acosta,"{'href': None, 'total': 646049}","['banda', 'cumbia', 'grupera', 'norteno', 'regional mexican']",67,1sxekzjeHJaqkZbpaaGR9x
+302,Blondie,"{'href': None, 'total': 712470}","['candy pop', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'power pop', 'rock']",69,4tpUmLEVLCGFr93o8hFFIB
+303,Caribou,"{'href': None, 'total': 455912}","['alternative dance', 'chillwave', 'electronica', 'electropop', 'folktronica', 'indie rock', 'indietronica', 'intelligent dance music', 'new rave']",68,4aEnNH9PuU1HF3TsZTru54
+304,Faith Evans,"{'href': None, 'total': 787501}","['dance pop', 'hip hop', 'hip pop', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']",66,5NDMothbpdpq2xHqSjrrWn
+305,Matt Maher,"{'href': None, 'total': 244331}","['anthem worship', 'canadian ccm', 'ccm', 'christian alternative rock', 'christian music', 'roots worship', 'world worship', 'worship']",62,1dPl8axUL09mso0myZqPZW
+306,Parachute,"{'href': None, 'total': 495876}","['acoustic pop', 'charlottesville indie', 'indiecoustica', 'neo mellow', 'pop', 'pop punk', 'pop rock', 'post-teen pop', 'viral pop']",64,2PCUhxD40qlMqsKHjTZD2e
+307,Reese LAFLARE,"{'href': None, 'total': 39225}","['trap soul', 'underground hip hop', 'vapor trap']",62,07V3atNq2TyPNDYmzp6Dyy
+308,Bow Wow,"{'href': None, 'total': 751487}","['dance pop', 'hip hop', 'hip pop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'urban contemporary']",64,7352aRY2mqSxBZwzUb6LmA
+309,Taio Cruz,"{'href': None, 'total': 1716054}","['dance pop', 'edm', 'pop', 'pop rap', 'post-teen pop']",71,6MF9fzBmfXghAz953czmBC
+310,O.A.R.,"{'href': None, 'total': 256818}","['acoustic pop', 'neo mellow', 'pop rock']",60,1Cq0LAHFfvUTBEtMPXUidI
+311,LCD Soundsystem,"{'href': None, 'total': 709103}","['alternative dance', 'alternative rock', 'dance-punk', 'electronic rock', 'electronica', 'garage rock', 'indie pop', 'indie rock', 'indietronica', 'modern rock', 'new rave', 'rock']",65,066X20Nz7iquqkkCW6Jxy6
+312,Trina,"{'href': None, 'total': 546042}","['deep pop r&b', 'escape room', 'hip pop', 'miami hip hop', 'pop rap', 'r&b', 'rap', 'rap latina', 'southern hip hop', 'trap', 'trap queen']",62,4PrinKSrmILmo0kERG0Ogn
+313,Ramones,"{'href': None, 'total': 1682030}","['classic rock', 'early us punk', 'permanent wave', 'punk', 'rock', 'skate punk']",69,1co4F2pPNH8JjTutZkmgSm
+314,Don McLean,"{'href': None, 'total': 447124}","['adult standards', 'classic rock', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'traditional folk']",67,1gRNBaI4yn6wCCTvRhGWh8
+315,Ghostface Killah,"{'href': None, 'total': 497283}","['alternative hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap', 'southern hip hop']",64,6FD0unjzGQhX3b6eMccMJe
+316,D'Angelo,"{'href': None, 'total': 852184}","['alternative r&b', 'funk', 'hip hop', 'indie soul', 'neo soul', 'r&b', 'soul', 'urban contemporary']",65,336vr2M3Va0FjyvB55lJEd
+317,Huey Lewis & The News,"{'href': None, 'total': 774683}","['album rock', 'classic rock', 'dance rock', 'folk rock', 'mellow gold', 'new wave pop', 'pop rock', 'rock', 'soft rock']",65,7A9yZMTrFZcgEWAX2kBfK6
+318,Raekwon,"{'href': None, 'total': 356445}","['alternative hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap', 'southern hip hop']",64,2yQf6b8hxahZaT5dHlWaB1
+319,Danny Brown,"{'href': None, 'total': 510817}","['alternative hip hop', 'detroit hip hop', 'escape room', 'hip hop', 'rap', 'underground hip hop']",63,7aA592KWirLsnfb5ulGWvU
+320,The Kiboomers,"{'href': None, 'total': 10619}","['music box', 'nursery']",66,1qKLikeNYpQFSsDAjg7HpI
+321,Madeon,"{'href': None, 'total': 518946}","['big room', 'complextro', 'edm', 'electro house', 'electropop', 'filter house']",64,4pb4rqWSoGUgxm63xmJ8xc
+322,Willy William,"{'href': None, 'total': 130159}",['francoton'],71,4RSyJzf7ef6Iu2rnLdabNq
+323,Jesus Culture,"{'href': None, 'total': 757210}","['anthem worship', 'ccm', 'christian music', 'deep ccm', 'world worship', 'worship']",64,0Onvkz1Nbs4wHXXUwOIGk8
+324,Luther Vandross,"{'href': None, 'total': 1288894}","['funk', 'motown', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'soul', 'urban contemporary']",65,19y5MFBH7gohEdGwKM7QsP
+325,Sammie,"{'href': None, 'total': 313680}","['deep pop r&b', 'hip pop', 'pop rap', 'r&b', 'urban contemporary']",64,4p07QU02SrLsaORo25h2Lg
+326,Popcaan,"{'href': None, 'total': 394904}","['dancehall', 'reggae fusion']",68,62DmErcU7dqZbJaDqwsqzR
+327,Johnnyswim,"{'href': None, 'total': 169447}","['acoustic pop', 'folk-pop', 'indie folk', 'indiecoustica', 'neo mellow', 'stomp and holler']",61,4igDSX1kgfWbVTDCywcBGm
+328,The Alchemist,"{'href': None, 'total': 148453}","['alternative hip hop', 'hardcore hip hop', 'hip hop', 'southern hip hop', 'underground hip hop', 'west coast rap']",63,0eVyjRhzZKke2KFYTcDkeu
+329,"Crosby, Stills & Nash","{'href': None, 'total': 939348}","['album rock', 'art rock', 'blues rock', 'classic rock', 'country rock', 'folk', 'folk rock', 'heartland rock', 'mellow gold', 'psychedelic rock', 'rock', 'roots rock', 'soft rock', 'traditional folk']",63,2pdvghEHZJtgSXZ7cvNLou
+330,Billie Holiday,"{'href': None, 'total': 1170839}","['adult standards', 'jazz blues', 'lounge', 'soul', 'torch song', 'vocal jazz']",66,1YzCsTRb22dQkh9lghPIrp
+331,Regulo Caro,"{'href': None, 'total': 1181044}","['banda', 'deep regional mexican', 'norteno', 'regional mexican', 'regional mexican pop']",66,0YRwUbRxrawmnBdixwJi5W
+332,Jason Isbell and the 400 Unit,"{'href': None, 'total': 113273}","['alternative country', 'deep new americana', 'folk', 'indie folk', 'new americana', 'roots rock', 'stomp and holler']",61,3Lg3FGwBxOGuefqekQzRUf
+333,Z-Ro,"{'href': None, 'total': 387936}","['dirty south rap', 'gangster rap', 'houston rap', 'latin hip hop', 'southern hip hop']",59,6MrdwyCIKbpXmTKQBlG3uq
+334,ZICO,"{'href': None, 'total': 653513}","['k-pop', 'korean pop', 'korean r&b']",71,4XpUIb8uuNlIWVKmgKZXC0
+335,Rick Springfield,"{'href': None, 'total': 407026}","['album rock', 'australian rock', 'classic rock', 'dance rock', 'mellow gold', 'new wave pop', 'pop rock', 'soft rock', 'yacht rock']",62,6IFXsrXBpwbIqtOUOiAa3p
+336,Moby,"{'href': None, 'total': 1146075}","['downtempo', 'electronica']",71,3OsRAKCvk37zwYcnzRf5XF
+337,Yung Bleu,"{'href': None, 'total': 449606}","['alabama rap', 'deep pop r&b', 'trap']",60,3KNIG74xSTc3dj0TRy7pGX
+338,Futuristic,"{'href': None, 'total': 426943}","['deep underground hip hop', 'indie pop rap', 'pop rap', 'rap']",62,5Z5jUyiNvFaqp0EVyLNf0p
+339,Eddie Money,"{'href': None, 'total': 411725}","['album rock', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'mellow gold', 'pop rock', 'rock', 'soft rock']",61,4Tw2N3wdvJPGEU7JqMxFfE
+340,Warren G,"{'href': None, 'total': 1160224}","['g funk', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap', 'west coast rap']",66,2B4ZHz4QDWJTXPFPgO5peE
+341,Linda Ronstadt,"{'href': None, 'total': 380442}","['adult standards', 'country rock', 'folk', 'folk rock', 'heartland rock', 'lilith', 'mellow gold', 'singer-songwriter', 'soft rock', 'traditional folk']",64,1sXbwvCQLGZnaH0Jp2HTVc
+342,LMFAO,"{'href': None, 'total': 3387553}","['dance pop', 'pop', 'pop rap']",68,3sgFRtyBnxXD5ESfmbK4dl
+343,Jordin Sparks,"{'href': None, 'total': 1410884}","['dance pop', 'neo mellow', 'pop', 'pop rap', 'pop rock', 'post-teen pop', 'r&b', 'urban contemporary']",67,2AQjGvtT0pFYfxR3neFcvz
+344,Mez,"{'href': None, 'total': 7930}",['nc hip hop'],62,30C5wgn4celhRP3Tytv7R6
+345,a-ha,"{'href': None, 'total': 1123676}","['dance rock', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'soft rock', 'synthpop']",72,2jzc5TC5TVFLXQlBNiIUzE
+346,Royal Philharmonic Orchestra,"{'href': None, 'total': 82998}",['orchestra'],70,0MvSBMGRQJY3mRwIbJsqF1
+347,Vulfpeck,"{'href': None, 'total': 494073}","['ann arbor indie', 'funk rock', 'instrumental funk']",64,7pXu47GoqSYRajmBCjxdD6
+348,Cheap Trick,"{'href': None, 'total': 748210}","['album rock', 'art rock', 'classic rock', 'dance rock', 'glam metal', 'glam rock', 'hard rock', 'heartland rock', 'mellow gold', 'new wave pop', 'pop rock', 'power pop', 'rock', 'soft rock']",65,1LB8qB5BPb3MHQrfkvifXU
+349,AlunaGeorge,"{'href': None, 'total': 382192}","['electropop', 'house', 'indietronica', 'pop', 'tropical house']",69,2VAnyOxzJuSAj7XIuEOT38
+350,Los Caminantes,"{'href': None, 'total': 690865}","['banda', 'cumbia', 'grupera', 'norteno', 'ranchera', 'regional mexican']",63,6ziEnj8UydSg8dr68C3aut
+351,Pancho Barraza,"{'href': None, 'total': 1174042}","['banda', 'cumbia', 'grupera', 'norteno', 'ranchera', 'regional mexican']",67,5dmU7FrmtbQaSzIvGsE4Jp
+352,Jay Park,"{'href': None, 'total': 986696}","['k-hop', 'k-pop', 'korean r&b']",66,4XDi67ZENZcbfKnvMnTYsI
+353,Clint Black,"{'href': None, 'total': 484891}","['country', 'country road', 'country rock']",60,3Ay15wt0QChT4Kapsuw5Jt
+354,Far East Movement,"{'href': None, 'total': 931493}","['dance pop', 'edm', 'pop', 'pop rap']",67,698hF4vcwHwPy8ltmXermq
+355,London Philharmonic Orchestra,"{'href': None, 'total': 231619}","['classical', 'orchestra']",69,3PfJE6ebCbCHeuqO4BfNeA
+356,High School Musical Cast,"{'href': None, 'total': 1112938}","['dance pop', 'post-teen pop']",68,2gUMs9PE8XZVQyzCDqaYmW
+357,Joe Nichols,"{'href': None, 'total': 487448}","['arkansas country', 'contemporary country', 'country', 'country road', 'modern country rock']",60,4aJTB79uwT4sP0Nb8QGWHc
+358,Greyson Chance,"{'href': None, 'total': 370072}","['dance pop', 'electropop', 'indie cafe pop', 'pop', 'post-teen pop', 'viral pop']",65,0Qnx1MPnHYt3jJCYrRFVwX
+359,Leeland,"{'href': None, 'total': 172567}","['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",63,6j1fmLreVuAay7k6Gudfa2
+360,Rockabye Lullaby,"{'href': None, 'total': 14441}",['lullaby'],64,3y0d6ljlxup7X9hZKSdKbr
+361,Hannah Montana,"{'href': None, 'total': 2647314}","['dance pop', 'pop', 'post-teen pop', 'social media pop']",66,7nU4hB040gTmHm45YYMvqc
+362,Tritonal,"{'href': None, 'total': 188758}","['big room', 'edm', 'electro house', 'pop edm', 'progressive electro house', 'progressive house', 'progressive trance', 'trance', 'tropical house', 'uplifting trance']",64,521qvhdobR0GzhvU6TFw76
+363,Francesca Battistelli,"{'href': None, 'total': 396790}","['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'worship']",61,29ywwKkxfoH7iWwNY1UezA
+364,Saliva,"{'href': None, 'total': 532595}","['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rap rock', 'wrestling']",62,5S6hjAxgxjsLylsTtMIimO
+365,Webbie,"{'href': None, 'total': 624721}","['baton rouge rap', 'crunk', 'deep southern trap', 'dirty south rap', 'gangster rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",59,6aIm51fHkokqlJn2vzNTH8
+366,The Wood Brothers,"{'href': None, 'total': 146539}","['blues rock', 'deep new americana', 'funk', 'indie folk', 'jam band', 'modern blues', 'new americana', 'progressive bluegrass', 'roots rock', 'stomp and holler']",60,6FxuPrpa8phaP3Xn73emhT
+367,Bridgit Mendler,"{'href': None, 'total': 1044193}","['dance pop', 'pop', 'post-teen pop', 'social media pop', 'viral pop']",65,4VhL8KLjVso4vLfOLVViTb
+368,Of Mice & Men,"{'href': None, 'total': 917331}","['melodic metalcore', 'metalcore', 'post-screamo', 'screamo']",63,4tususHNaR68xdgLstlGBA
+369,Count Basie,"{'href': None, 'total': 239480}","['adult standards', 'bebop', 'big band', 'cool jazz', 'jazz', 'jazz piano', 'lounge', 'swing', 'vocal jazz']",66,2jFZlvIea42ZvcCw4OeEdA
+370,Nina Nesbitt,"{'href': None, 'total': 241220}","['dance pop', 'electropop', 'neo-singer-songwriter', 'pop', 'post-teen pop', 'uk pop', 'viral pop']",70,7AzjETXRUKNRSJHMW9GIqd
+371,Robin Thicke,"{'href': None, 'total': 1548721}","['dance pop', 'hip pop', 'neo soul', 'pop', 'r&b', 'urban contemporary']",67,0ZrpamOxcZybMHGg1AYtHP
+372,Spice Girls,"{'href': None, 'total': 1686165}","['dance pop', 'europop', 'girl group', 'pop']",70,0uq5PttqEjj3IH1bzwcrXF
+373,Four Tops,"{'href': None, 'total': 603959}","['adult standards', 'brill building pop', 'classic soul', 'disco', 'folk rock', 'funk', 'mellow gold', 'motown', 'quiet storm', 'soul']",66,7fIvjotigTGWqjIz6EP1i4
+374,SWV,"{'href': None, 'total': 1014437}","['dance pop', 'girl group', 'hip hop', 'hip pop', 'neo soul', 'new jack swing', 'pop', 'quiet storm', 'r&b', 'urban contemporary']",62,2NmK5FyrQ18HOPXq1UBzqa
+375,Hardwell,"{'href': None, 'total': 3188320}","['big room', 'dance pop', 'deep big room', 'dutch house', 'edm', 'electro house', 'progressive electro house', 'progressive house', 'tropical house']",73,6BrvowZBreEkXzJQMpL174
+376,Banda Machos,"{'href': None, 'total': 656365}","['banda', 'cumbia', 'duranguense', 'grupera', 'norteno', 'ranchera', 'regional mexican']",64,7MyUjj79oHy7I8RocrtzZ2
+377,Eve,"{'href': None, 'total': 665865}","['dance pop', 'hip hop', 'hip pop', 'philly rap', 'pop rap', 'r&b', 'rap', 'urban contemporary']",67,4d3yvTptO48nOYTPBcPFZC
+378,Jos√© Jos√©,"{'href': None, 'total': 2541197}","['bolero', 'cancion melodica', 'latin pop']",75,4mN0qcMxWX8oToqfDPM5yV
+379,Lykke Li,"{'href': None, 'total': 1322664}","['art pop', 'dance pop', 'electropop', 'indie pop', 'indietronica', 'pop', 'swedish electropop', 'swedish indie pop', 'swedish pop']",70,6oBm8HB0yfrIc9IHbxs6in
+380,The Lonely Island,"{'href': None, 'total': 878184}","['comedy rap', 'comic']",65,1f5GqyOPo0CkotzzRwviBu
+381,The Mamas & The Papas,"{'href': None, 'total': 808624}","['adult standards', 'brill building pop', 'bubblegum pop', 'classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'soft rock', 'sunshine pop']",66,1bs7HoMkSyQwcobCpE9KpN
+382,The Knocks,"{'href': None, 'total': 128803}","['alternative dance', 'edm', 'indie pop', 'indie poptimism', 'indietronica', 'new french touch', 'nu disco', 'pop', 'shimmer pop', 'tropical house', 'vapor soul']",64,2x7EATekOPhFGRx3syMGEC
+383,Car Seat Headrest,"{'href': None, 'total': 240573}","['alternative rock', 'anti-folk', 'indie pop', 'indie punk', 'indie rock']",62,5PbpKlxQE0Ktl5lcNABoFf
+384,Dabin,"{'href': None, 'total': 77051}","['canadian electronic', 'catstep', 'chillstep', 'edm', 'electropop', 'melodic dubstep', 'pop edm']",62,7lZauDnRoAC3kmaYae2opv
+385,Bronco,"{'href': None, 'total': 1148814}","['banda', 'grupera', 'norteno', 'ranchera', 'regional mexican']",70,0VKh7CQDi9MkUvaBMoK1V0
+386,Robyn,"{'href': None, 'total': 632709}","['art pop', 'dance pop', 'electropop', 'pop', 'pop rock', 'scandipop', 'swedish electropop', 'swedish pop']",67,6UE7nl9mha6s8z0wFQFIZ2
+387,Whitesnake,"{'href': None, 'total': 1532733}","['album rock', 'british blues', 'classic rock', 'glam metal', 'hard rock', 'metal', 'rock']",68,3UbyYnvNIT5DFXU4WgiGpP
+388,Styles P,"{'href': None, 'total': 356790}","['battle rap', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",64,2x8KDZdSONA3872CnhaAlX
+389,Jeff Williams,"{'href': None, 'total': 75111}","['antiviral pop', 'comic', 'otacore']",62,6jy0VQ5tLwEKBeMxZ1aK4J
+390,Joywave,"{'href': None, 'total': 164341}","['indie pop', 'indie poptimism', 'indie rock', 'indietronica', 'modern alternative rock', 'modern rock', 'rochester ny indie', 'rock', 'shimmer pop', 'vapor soul']",61,1UfzhwcOR4yfX7yHTPfC9m
+391,Four Tet,"{'href': None, 'total': 420614}","['alternative dance', 'electronica', 'folktronica', 'indie soul', 'indietronica', 'intelligent dance music', 'new rave']",69,7Eu1txygG6nJttLHbZdQOh
+392,D12,"{'href': None, 'total': 1354119}","['detroit hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'rap rock', 'southern hip hop']",66,5Qi4Bb7a8C0a00NZcA77L0
+393,Kris Kristofferson,"{'href': None, 'total': 290418}","['country rock', 'folk', 'folk rock', 'outlaw country', 'roots rock', 'singer-songwriter', 'traditional folk']",63,0vYQRW5LIDeYQOccTviQNX
+394,INXS,"{'href': None, 'total': 1336669}","['australian rock', 'dance rock', 'funk rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'pop rock', 'rock', 'soft rock']",69,1eClJfHLoDI4rZe5HxzBFv
+395,Banda Carnaval,"{'href': None, 'total': 1281639}","['banda', 'grupera', 'norteno', 'regional mexican', 'regional mexican pop']",66,6LOvxDn71T0wWhCDNcXcUj
+396,Gabrielle Aplin,"{'href': None, 'total': 535472}","['acoustic pop', 'dance pop', 'neo mellow', 'neo-singer-songwriter', 'pop', 'pop rock', 'uk pop', 'viral pop']",68,3w6zswp5THsSKYLICUbDTZ
+397,LiSA,"{'href': None, 'total': 799436}","['anime rock', 'j-pixie', 'otacore']",70,0blbVefuxOGltDBa00dspv
+398,Salaam Remi,"{'href': None, 'total': 14429}",['hip hop'],63,0rlS0SzVFk8BoiAW0fGBbN
+399,Breathe Carolina,"{'href': None, 'total': 295368}","['edm', 'electro house', 'electropowerpop', 'neon pop punk', 'pop punk', 'trancecore']",65,53M4Iv2RkzzxFFvW2B1jhC
+400,Charlie Wilson,"{'href': None, 'total': 602157}","['neo soul', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']",62,6CxZzQFUTM6AzgluGwtq5w
+401,Blue October,"{'href': None, 'total': 272050}","['alternative metal', 'neo mellow', 'pop rock', 'post-grunge', 'san marcos tx indie']",60,1TJbmc7jTpw78GKCiMpvDh
+402,Thin Lizzy,"{'href': None, 'total': 687993}","['album rock', 'blues rock', 'classic rock', 'hard rock', 'metal', 'rock']",66,6biWAmrHyiMkX49LkycGqQ
+403,The Marshall Tucker Band,"{'href': None, 'total': 459445}","['album rock', 'blues rock', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'mellow gold', 'rock', 'roots rock', 'soft rock', 'southern rock']",59,59QxeZBL6k9L4oJBGSyukd
+404,MK,"{'href': None, 'total': 179312}","['dance pop', 'deep groove house', 'edm', 'house', 'pop', 'tropical house']",72,1yqxFtPHKcGcv6SXZNdyT9
+405,Sugar Ray,"{'href': None, 'total': 552477}","['alternative metal', 'alternative rock', 'funk metal', 'neo mellow', 'pop rock', 'post-grunge']",61,4uN3DsfENc7dp0OLO0FEIb
+406,Audien,"{'href': None, 'total': 143160}","['big room', 'edm', 'electro house', 'pop edm', 'progressive electro house', 'progressive house', 'tropical house']",62,4xnMDfgEmXZEEDdITKcGuE
+407,Camila,"{'href': None, 'total': 2364294}","['latin', 'latin arena pop', 'latin pop', 'pop']",71,2gRP1Ezbtj3qrERnd0XasU
+408,James Blunt,"{'href': None, 'total': 2152201}","['neo mellow', 'pop', 'pop rock']",76,7KMqksf0UMdyA0UCf4R3ux
+409,Blackstreet,"{'href': None, 'total': 457006}","['boy band', 'dance pop', 'hip hop', 'hip pop', 'neo soul', 'new jack swing', 'pop rap', 'quiet storm', 'r&b', 'rap', 'urban contemporary']",64,2P3cjUru4H3fhSXXNxE9kA
+410,Musiq Soulchild,"{'href': None, 'total': 737342}","['dance pop', 'hip pop', 'neo soul', 'r&b', 'urban contemporary']",61,3UVRliakQfa1pMWIsNuiZ8
+411,Tracy Byrd,"{'href': None, 'total': 409880}","['contemporary country', 'country', 'country road', 'country rock', 'redneck']",59,0xxJO75NeIAF5jYruLYIDT
+412,The Wombats,"{'href': None, 'total': 760632}","['garage rock', 'indie pop', 'liverpool indie', 'modern alternative rock', 'modern rock', 'rock']",69,0Ya43ZKWHTKkAbkoJJkwIB
+413,Dido,"{'href': None, 'total': 941856}","['dance pop', 'new wave pop', 'pop rock']",70,2mpeljBig2IXLXRAFO9AAs
+414,Paul Anka,"{'href': None, 'total': 327574}","['adult standards', 'brill building pop', 'canadian pop', 'easy listening', 'lounge', 'rock-and-roll']",65,7ceUfdWq2t5nbatS6ollHh
+415,Brian Eno,"{'href': None, 'total': 395990}","['ambient', 'art pop', 'art rock', 'compositional ambient', 'dance rock', 'drone', 'experimental', 'experimental rock', 'fourth world', 'glam rock', 'minimalism']",65,7MSUfLeTdDEoZiJPDSBXgi
+416,Blind Melon,"{'href': None, 'total': 675169}","['alternative metal', 'alternative rock', 'blues rock', 'classic rock', 'grunge', 'pop rock', 'post-grunge', 'rock']",63,5sD1ZLf2dGQ9gQ3YJl1eAd
+417,New Found Glory,"{'href': None, 'total': 560249}","['easycore', 'emo', 'pop punk', 'post-grunge', 'skate punk']",62,4ghjRm4M2vChDfTUycx0Ce
+418,Adam Lambert,"{'href': None, 'total': 1018007}","['dance pop', 'idol', 'pop', 'post-teen pop']",66,6prmLEyn4LfHlD9NnXWlf7
+419,Mikky Ekko,"{'href': None, 'total': 117240}",['nashville indie'],66,1buzCmyYZE4kcdLRudsb8V
+420,Espinoza Paz,"{'href': None, 'total': 1334381}","['banda', 'grupera', 'norteno', 'ranchera', 'regional mexican']",67,01rgao9OzfBm2BOHWJpi1Y
+421,Jazmine Sullivan,"{'href': None, 'total': 1003560}","['alternative r&b', 'dance pop', 'deep pop r&b', 'hip pop', 'indie r&b', 'neo soul', 'pop', 'pop rap', 'r&b', 'urban contemporary']",61,7gSjFKpVmDgC2MMsnN8CYq
+422,Amanda Seyfried,"{'href': None, 'total': 70100}",['hollywood'],68,5RZjpmuD14JKXvB8Ry1G1u
+423,Erik Satie,"{'href': None, 'total': 414817}","['classical', 'early avant garde', 'early modern classical', 'post-romantic era']",67,459INk8vcC0ebEef82WjIK
+424,Easton Corbin,"{'href': None, 'total': 637255}","['contemporary country', 'country', 'country road', 'modern country rock']",59,070kGpqtESdDsLb3gdMIyx
+425,Monty,"{'href': None, 'total': 13694}",[ëclassicalí],62,1Wnfj5qZsp8nPsGBBRRa4W
+426,Regina Spektor,"{'href': None, 'total': 1061168}","['anti-folk', 'chamber pop', 'indie pop', 'lilith', 'piano rock', 'pop rock']",64,3z6Gk257P9jNcZbBXJNX5i
+427,St. Vincent,"{'href': None, 'total': 560282}","['art pop', 'chamber pop', 'electropop', 'escape room', 'etherpop', 'freak folk', 'indie pop', 'indie rock', 'indietronica', 'metropopolis']",62,7bcbShaqKdcyjnmv4Ix8j6
+428,Tasha Cobbs Leonard,"{'href': None, 'total': 333391}","['gospel', 'naija worship']",60,5YxebzzreNswbtYC1td4cx
+429,Duelo,"{'href': None, 'total': 878557}","['banda', 'grupera', 'norteno', 'regional mexican', 'tejano']",68,0nnp7oJpY2J6yZOqtdKaWq
+430,Snow Tha Product,"{'href': None, 'total': 266621}","['rap latina', 'trap queen']",60,3p3jPcp8b7WL9XYj4xlsWj
+431,Dexys Midnight Runners,"{'href': None, 'total': 127412}",['bow pop'],65,4QTVePrFu1xuGM9K0kNXkk
+432,Michael Salvatori,"{'href': None, 'total': 17197}","['scorecore', 'video game music']",62,7Ir0wjCeuhkHUyPAfNJi2X
+433,Big & Rich,"{'href': None, 'total': 750791}","['contemporary country', 'country', 'country road', 'modern country rock']",60,0oBEeN6BCxEgMogzThqrPf
+434,Timmy Trumpet,"{'href': None, 'total': 608024}","['australian dance', 'catstep', 'edm', 'melbourne bounce', 'melbourne bounce international']",74,0CbeG1224FS58EUx4tPevZ
+435,Simple Minds,"{'href': None, 'total': 998904}","['art rock', 'dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'rock', 'scottish new wave', 'soft rock', 'synthpop']",69,6hN9F0iuULZYWXppob22Aj
+436,Chaka Khan,"{'href': None, 'total': 884044}","['dance pop', 'disco', 'funk', 'motown', 'neo soul', 'post-disco', 'quiet storm', 'soul', 'urban contemporary']",66,6mQfAAqZGBzIfrmlZCeaYT
+437,Trick Daddy,"{'href': None, 'total': 543717}","['crunk', 'dirty south rap', 'gangster rap', 'hip hop', 'hip pop', 'miami hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",59,12FHARd9fY0Tu0ila4Ua25
+438,Collective Soul,"{'href': None, 'total': 596997}","['alternative metal', 'alternative rock', 'nu metal', 'pop rock', 'post-grunge', 'rock']",62,4e5V1Q2dKCzbLVMQ8qbTn6
+439,Bonnie Raitt,"{'href': None, 'total': 351887}","['classic rock', 'country rock', 'electric blues', 'folk', 'folk rock', 'lilith', 'mellow gold', 'pop rock', 'rock', 'roots rock', 'singer-songwriter', 'soft rock']",62,4KDyYWR7IpxZ7xrdYbKrqY
+440,Vybz Kartel,"{'href': None, 'total': 597515}","['dancehall', 'reggae fusion']",67,2NUz5P42WqkxilbI8ocN76
+441,Edward Sharpe & The Magnetic Zeros,"{'href': None, 'total': 876324}","['indie folk', 'indie pop', 'la indie', 'modern rock', 'stomp and holler']",64,7giUHu5pv6YTZgSkxxCcgh
+442,Chris Lake,"{'href': None, 'total': 151597}","['bass house', 'big room', 'deep groove house', 'edm', 'electro house', 'house', 'melbourne bounce', 'progressive house']",67,5Igpc9iLZ3YGtKeYfSrrOE
+443,The Word Alive,"{'href': None, 'total': 221878}","['melodic metalcore', 'metalcore', 'post-screamo', 'screamo', 'trancecore']",65,1CF8aEN939swnuIZGFI7Hk
+444,Glen Campbell,"{'href': None, 'total': 220365}","['adult standards', 'arkansas country', 'brill building pop', 'bubblegum pop', 'classic country pop', 'classic uk pop', 'folk', 'folk rock', 'lounge', 'mellow gold', 'nashville sound', 'soft rock', 'traditional folk']",63,59hLmB5DrdihCYtNeFeW1U
+445,Toni Braxton,"{'href': None, 'total': 2057234}","['dance pop', 'hip pop', 'neo soul', 'new jack swing', 'pop', 'quiet storm', 'r&b', 'urban contemporary']",66,3X458ddYA2YcVWuVIGGOYe
+446,Caravan Palace,"{'href': None, 'total': 660940}","['electro swing', 'nu jazz']",65,37J1PlAkhRK7yrZUtqaUpQ
+447,Real Estate,"{'href': None, 'total': 324288}","['art pop', 'chamber pop', 'chillwave', 'freak folk', 'indie pop', 'indie rock', 'indietronica', 'lo-fi', 'modern rock', 'new jersey indie', 'noise pop', 'nu gaze', 'shimmer pop']",61,41SQP16hv1TioVYqdckmxT
+448,Travis Porter,"{'href': None, 'total': 634060}","['atl hip hop', 'dirty south rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",60,6z1cicLMt9XArxN10q7m8a
+449,Jill Scott,"{'href': None, 'total': 1044475}","['funk', 'hip hop', 'hip pop', 'neo soul', 'quiet storm', 'r&b', 'soul', 'urban contemporary']",60,6AVLthptCPhfrxlHadOBJD
+450,Vitamin String Quartet,"{'href': None, 'total': 447955}","['bow pop', 'classify']",61,6MERXsiRbur2oJZFgYRDKz
+451,The Glitch Mob,"{'href': None, 'total': 482227}","['edm', 'electro house', 'glitch', 'glitch hop']",64,3a9qv6NLHnsVxJUtKOMHvD
+452,Eurythmics,"{'href': None, 'total': 955503}","['dance pop', 'dance rock', 'disco', 'europop', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock', 'synthpop']",70,0NKDgy9j66h3DLnN8qu1bB
+453,Yeah Yeah Yeahs,"{'href': None, 'total': 885939}","['alternative dance', 'alternative rock', 'art pop', 'dance-punk', 'garage rock', 'indie pop', 'indie rock', 'modern rock', 'new rave', 'rock']",65,3TNt4aUIxgfy9aoaft5Jj2
+454,Amos Lee,"{'href': None, 'total': 334830}","['acoustic pop', 'indie folk', 'neo mellow', 'new americana', 'pop rock', 'stomp and holler']",61,0QrowybipCKUDnq5y10PD2
+455,Ennio Morricone,"{'href': None, 'total': 557499}","['classic soundtrack', 'italian soundtrack', 'soundtrack', 'vintage italian soundtrack']",68,1nIUhcKHnK6iyumRyoV68C
+456,Lil Wyte,"{'href': None, 'total': 325007}","['country rap', 'crunk', 'dirty south rap', 'gangster rap', 'memphis hip hop', 'pop rap', 'rap', 'redneck', 'southern hip hop', 'trap']",58,21O7WwRkik43ErKppxDKJq
+457,Drowning Pool,"{'href': None, 'total': 1088370}","['alternative metal', 'groove metal', 'industrial metal', 'nu metal', 'post-grunge', 'rap metal', 'rap rock', 'wrestling']",62,1E4r4z7ivGUcSAnCbINJ9v
+458,Aaron Watson,"{'href': None, 'total': 156901}","['contemporary country', 'country', 'country road', 'modern country rock', 'red dirt', 'texas country']",58,5BKzvAPtNXnt0LwzGvKOH3
+459,Ween,"{'href': None, 'total': 228609}","['alternative rock', 'comic']",60,3u1ulLq00Y3bfmq9FfjsPu
+460,Steppenwolf,"{'href': None, 'total': 831799}","['acid rock', 'album rock', 'blues rock', 'classic canadian rock', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'mellow gold', 'psychedelic rock', 'rock', 'roots rock']",65,1WRM9i067hd2ujxxi8FI3m
+461,Gang Starr,"{'href': None, 'total': 550960}","['alternative hip hop', 'conscious hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']",64,5cMgGlA1xGyeAB2ctYlRdZ
+462,ARTY,"{'href': None, 'total': 140065}","['big room', 'edm', 'electro house', 'pop edm', 'progressive electro house', 'progressive house', 'progressive trance', 'trance', 'tropical house', 'uplifting trance']",64,1rSGNXhhYuWoq9BEz5DZGO
+463,Philip Glass,"{'href': None, 'total': 388967}","['american contemporary classical', 'classical', 'compositional ambient', 'contemporary classical', 'drone', 'minimalism']",65,69lxxQvsfAIoQbB20bEPFC
+464,Julie Andrews,"{'href': None, 'total': 74659}","['adult standards', 'hollywood', 'movie tunes']",62,5RdqZVi36tpDPYNPw8jJbO
+465,UB40,"{'href': None, 'total': 1421293}","['reggae fusion', 'uk reggae']",70,69MEO1AADKg1IZrq2XLzo5
+466,Chamillionaire,"{'href': None, 'total': 484752}","['dirty south rap', 'gangster rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",64,6vdMPayKk8YJxxeNP5oMCb
+467,Boys Like Girls,"{'href': None, 'total': 838079}","['neo mellow', 'neon pop punk', 'pop punk', 'pop rock', 'post-teen pop']",62,0vWCyXMrrvMlCcepuOJaGI
+468,Bobby Darin,"{'href': None, 'total': 272904}","['adult standards', 'brill building pop', 'easy listening', 'lounge', 'motown', 'rock-and-roll', 'rockabilly', 'soul', 'vocal jazz']",62,0EodhzA6yW1bIdD5B4tcmJ
+469,Zacarias Ferreira,"{'href': None, 'total': 641180}","['bachata', 'dominican pop', 'latin', 'tropical']",63,1LKPL2O3vA3ozNsmshDg3o
+470,YG,"{'href': None, 'total': 22856}",[ëhip hopí],62,3elR9fj2COXgTJlJm7NtP7
+471,Boogie,"{'href': None, 'total': 155430}","['hip hop', 'rap', 'underground hip hop']",60,5usbqiU7sjvszjWecANDL6
+472,The Cab,"{'href': None, 'total': 450574}","['modern rock', 'neon pop punk', 'pop emo', 'pop punk', 'pop rock', 'post-teen pop', 'vegas indie', 'viral pop']",62,2C2sVVXanbOpymYBMpsi89
+473,Nujabes,"{'href': None, 'total': 418639}","['chillhop', 'downtempo', 'japanese chillhop', 'jazz rap']",63,3Rq3YOF9YG9YfCWD4D56RZ
+474,Colby O'Donis,"{'href': None, 'total': 92893}","['pop rap', 'urban contemporary']",66,7fObcBw9VM3x7ntWKCYl0z
+475,Lily Allen,"{'href': None, 'total': 1465093}","['dance pop', 'europop', 'pop', 'pop rock']",70,13saZpZnCDWOI9D4IJhp1f
+476,City and Colour,"{'href': None, 'total': 709096}","['canadian folk', 'canadian indie']",63,74gcBzlQza1bSfob90yRhR
+477,Mot√∂rhead,"{'href': None, 'total': 2147810}","['album rock', 'alternative metal', 'groove metal', 'hard rock', 'metal', 'rock', 'speed metal']",68,1DFr97A9HnbV3SKTJFu62M
+478,Barbra Streisand,"{'href': None, 'total': 680284}","['adult standards', 'hollywood', 'mellow gold', 'soft rock']",68,7jmTilWYlKOuavFfmQAcu6
+479,Cali Y El Dandee,"{'href': None, 'total': 2400977}","['champeta', 'colombian pop', 'electro latino', 'latin', 'latin pop', 'reggaeton', 'spanish pop', 'tropical']",76,5DUlefCLzVRzNWaNURTFpK
+480,P.O.D.,"{'href': None, 'total': 1177854}","['alternative metal', 'funk metal', 'nu metal', 'post-grunge', 'rap metal', 'rap rock']",64,6KO6G41BBLTDNYOLefWTMU
+481,Carly Simon,"{'href': None, 'total': 547158}","['adult standards', 'brill building pop', 'classic uk pop', 'country rock', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",65,4FtSnMlCVxCswABUmdhwpm
+482,Silversun Pickups,"{'href': None, 'total': 451265}","['alternative metal', 'alternative rock', 'dance-punk', 'garage rock', 'indie pop', 'indie rock', 'la indie', 'modern alternative rock', 'modern rock', 'post-grunge', 'rock']",60,6qyi8X6MdP1lu6B1K6yh3h
+483,They Might Be Giants,"{'href': None, 'total': 222365}","['comic', 'geek rock', 'permanent wave', 'zolo']",60,6zB02lwP6L6ZH32nggQiJT
+484,Sarah McLachlan,"{'href': None, 'total': 514209}","['canadian pop', 'canadian singer-songwriter', 'ectofolk', 'folk', 'lilith', 'neo mellow', 'new wave pop', 'permanent wave', 'pop rock']",65,4NgNsOXSwIzXlUIJcpnNUp
+485,Hoobastank,"{'href': None, 'total': 1415510}","['alternative metal', 'funk metal', 'nu metal', 'pop rock', 'post-grunge']",67,2MqhkhX4npxDZ62ObR5ELO
+486,The Civil Wars,"{'href': None, 'total': 733996}","['acoustic pop', 'indie folk', 'indiecoustica', 'neo mellow', 'new americana', 'stomp and holler']",63,6J7rw7NELJUCThPbAfyLIE
+487,George Frideric Handel,"{'href': None, 'total': 491712}","['baroque', 'classical', 'early music', 'english baroque', 'german baroque']",67,1QL7yTHrdahRMpvNtn6rI2
+488,Xzibit,"{'href': None, 'total': 943012}","['detroit hip hop', 'g funk', 'gangster rap', 'hardcore hip hop', 'hip hop', 'pop rap', 'rap', 'west coast rap']",67,4tujQJicOnuZRLiBFdp3Ou
+489,Cedric Gervais,"{'href': None, 'total': 90138}","['big room', 'disco house', 'edm', 'electro house', 'house', 'progressive electro house', 'progressive house']",67,4Wjf8diP59VmPG7fi4y724
+490,Ricardo Montaner,"{'href': None, 'total': 2598088}","['grupera', 'latin', 'latin pop', 'tropical']",72,4uoz4FUMvpeyGClFTTDBsD
+491,Vanessa Carlton,"{'href': None, 'total': 386495}","['dance pop', 'lilith', 'neo mellow', 'piano rock', 'pop rock', 'post-teen pop']",66,5ILrArfIV0tMURcHJN8Q07
+492,Bonobo,"{'href': None, 'total': 998288}","['downtempo', 'electronica', 'jazztronica', 'ninja', 'nu jazz', 'trip hop']",67,0cmWgDlu9CwTgxPhf403hb
+493,Duke Dumont,"{'href': None, 'total': 533397}","['dance pop', 'deep groove house', 'destroy techno', 'disco house', 'edm', 'house', 'pop', 'progressive house', 'tropical house']",70,61lyPtntblHJvA7FMMhi7E
+494,M√Ωa,"{'href': None, 'total': 750481}","['dance pop', 'deep pop r&b', 'hip pop', 'neo soul', 'pop', 'pop rap', 'r&b', 'rap', 'urban contemporary']",64,6lHL3ubAMgSasKjNqKb8HF
+495,Scarface,"{'href': None, 'total': 481983}","['conscious hip hop', 'dirty south rap', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",59,19KwjzvIL92r29IINtlPNP
+496,Yes,"{'href': None, 'total': 1051249}","['album rock', 'art rock', 'classic rock', 'hard rock', 'jazz fusion', 'progressive rock', 'rock', 'symphonic rock']",64,7AC976RDJzL2asmZuz7qil
+497,Jermaine Dupri,"{'href': None, 'total': 215381}","['atl hip hop', 'dirty south rap', 'hip hop', 'hip pop', 'pop rap', 'rap', 'southern hip hop']",62,6nfYGe7IIuuP5bMY1jkJP6
+498,Sly & The Family Stone,"{'href': None, 'total': 534370}","['classic rock', 'classic soul', 'disco', 'folk rock', 'funk', 'funk rock', 'mellow gold', 'motown', 'rock', 'soul', 'southern soul']",63,5m8H6zSadhu1j9Yi04VLqD
+499,Young Buck,"{'href': None, 'total': 573825}","['crunk', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",62,4pr7J7wzgObkE3DD3Izi7q
+500,Sesame Street,"{'href': None, 'total': 34941}","['cartoon', ""children's music""]",58,50bY8HGxT0SuDgJX3AilTT
+501,JJ Heller,"{'href': None, 'total': 52645}","['acoustic pop', 'anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'indiecoustica', 'neo mellow', 'roots worship', 'world worship', 'worship']",60,7dq8KEwf0kQXJhM79iwcPh
+502,Deep Purple,"{'href': None, 'total': 3049409}","['album rock', 'blues rock', 'classic rock', 'hard rock', 'metal', 'psychedelic rock', 'rock']",70,568ZhdwyaiCyOGJRtNYhWf
+503,Alan Silvestri,"{'href': None, 'total': 169006}","['scorecore', 'soundtrack']",65,0Xk15jHKly4c3AhPr5vjoA
+504,The Kooks,"{'href': None, 'total': 1839262}","['brighton indie', 'garage rock', 'indie pop', 'modern rock', 'rock']",70,1GLtl8uqKmnyCWxHmw9tL4
+505,Jewel,"{'href': None, 'total': 418574}","['alaska indie', 'lilith', 'permanent wave', 'pop rock', 'singer-songwriter']",61,6FbDoZnMBTdhhhLuJBOOqP
+506,Dispatch,"{'href': None, 'total': 203819}","['indie folk', 'jam band', 'modern folk rock', 'neo mellow', 'reggae rock']",58,6v4jPZO3UIDNJIgdxRxtr9
+507,Alice Cooper,"{'href': None, 'total': 1916264}","['album rock', 'blues rock', 'classic rock', 'glam metal', 'glam rock', 'hard rock', 'metal', 'protopunk', 'rock']",66,3EhbVgyfGd7HkpsagwL9GS
+508,Quiet Riot,"{'href': None, 'total': 887848}","['album rock', 'classic rock', 'glam metal', 'hard rock', 'metal', 'rock']",63,1dLWg6m8RRhizsdqJbhyj3
+509,Juan Mag√°n,"{'href': None, 'total': 1425441}","['dance pop', 'electro latino', 'latin', 'latin pop', 'reggaeton', 'spanish pop', 'tropical']",75,1ackd5XprZEkH3McKbQD51
+510,Los Rehenes,"{'href': None, 'total': 421527}","['banda', 'cumbia', 'duranguense', 'grupera', 'norteno', 'regional mexican']",61,5IaAggho4F1gWHE5REe1e8
+511,Trampled by Turtles,"{'href': None, 'total': 249840}","['bluegrass', 'deep new americana', 'duluth indie', 'indie folk', 'jam band', 'new americana', 'progressive bluegrass', 'roots rock', 'stomp and holler']",58,3GjVVVcFmUgEJEAAsbGkf4
+512,Louis Prima,"{'href': None, 'total': 107170}","['adult standards', 'jump blues', 'lounge', 'soul', 'swing', 'vocal jazz']",62,52lBOxCxbJg0ttXEW9CQpW
+513,The Spinners,"{'href': None, 'total': 430700}","['classic soul', 'disco', 'funk', 'mellow gold', 'motown', 'philly soul', 'quiet storm', 'soft rock', 'soul', 'southern soul']",62,5fbhwqYYh4YwUoEs582mq5
+514,Thal√≠a,"{'href': None, 'total': 2495659}","['dance pop', 'latin', 'latin pop', 'mexican pop']",73,23wEWD21D4TPYiJugoXmYb
+515,The Flaming Lips,"{'href': None, 'total': 520170}","['alternative rock', 'art rock', 'chamber pop', 'garage rock', 'indie pop', 'indie rock', 'modern rock', 'noise pop', 'okc indie', 'rock']",61,16eRpMNXSQ15wuJoeqguaB
+516,Hank Williams,"{'href': None, 'total': 506913}","['folk', 'honky tonk', 'rock-and-roll', 'traditional country', 'traditional folk', 'yodeling']",60,1FClsNYBUoNFtGgzeG74dW
+517,Neha Kakkar,"{'href': None, 'total': 8368222}","['desi pop', 'filmi', 'modern bollywood']",75,5f4QpKfy7ptCHwTqspnSJI
+518,Mike Perry,"{'href': None, 'total': 874613}","['dance pop', 'deep pop edm', 'deep tropical house', 'edm', 'electro house', 'pop', 'pop edm', 'swedish tropical house', 'tropical house']",71,6lB8vOoI4DRrrVxXwuV19c
+519,Pesado,"{'href': None, 'total': 874521}","['banda', 'cumbia', 'grupera', 'norteno', 'ranchera', 'regional mexican']",68,4BwiodzEp9Hwes5HeFjMVK
+520,Maxwell,"{'href': None, 'total': 978681}","['dance pop', 'funk', 'hip pop', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'soul', 'urban contemporary']",60,2AOt5htsbtyaHd5Eq3kl3j
+521,Alacranes Musical,"{'href': None, 'total': 335372}","['banda', 'cumbia', 'duranguense', 'grupera', 'norteno', 'regional mexican']",59,2aZtzjAzD8fq3OhZ9egqda
+522,LaChanze,"{'href': None, 'total': 845}",['movie tunes'],61,3zT7dcLl9wbSXsVh3VQx3A
+523,Jodeci,"{'href': None, 'total': 1097418}","['dance pop', 'funk', 'hip hop', 'hip pop', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'rap', 'urban contemporary']",58,1eNkUXHPaXyuyC8NAgzykK
+524,Martina McBride,"{'href': None, 'total': 764178}","['contemporary country', 'country', 'country dawn', 'country road']",60,3P33qFNGBVXl86yQYWspFj
+525,Meryl Streep,"{'href': None, 'total': 54397}",['hollywood'],67,2HB65P72dFRiOKvbLLcil2
+526,Thrice,"{'href': None, 'total': 319616}","['modern rock', 'post-hardcore', 'screamo']",60,3NChzMpu9exTlNPiqUQ2DE
+527,Will Reagan,"{'href': None, 'total': 88017}","['anthem worship', 'ccm', 'christian pop', 'christian uplift', 'deep ccm', 'indiecoustica', 'roots worship', 'world worship', 'worship']",60,3P9Tb34QQEWyjm1pYdPfOP
+528,Gilberto Santa Rosa,"{'href': None, 'total': 1028552}","['latin', 'salsa', 'salsa puertorriquena', 'tropical']",69,27vNK840zYq6IfDijHPsv1
+529,Jason Isbell,"{'href': None, 'total': 233207}","['alternative country', 'deep new americana', 'folk', 'indie folk', 'new americana', 'roots rock', 'stomp and holler', 'traditional folk']",58,3Q8wgwyVVv0z4UEh1HB0KY
+530,Keane,"{'href': None, 'total': 1848440}","['modern rock', 'neo mellow', 'piano rock', 'pop rock', 'rock']",72,53A0W3U0s8diEn9RhXQhVz
+531,Mike Jones,"{'href': None, 'total': 262500}","['dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",58,07VmOvmuBp9G0gb8BTrpn0
+532,Kidd Kidd,"{'href': None, 'total': 11989}",['new orleans rap'],59,2zJoKYyLmhvsq3ORbXE7xF
+533,Tina Turner,"{'href': None, 'total': 1734027}","['disco', 'europop', 'mellow gold', 'new wave pop', 'soft rock']",70,1zuJe6b1roixEKMOtyrEak
+534,Gojira,"{'href': None, 'total': 591906}","['alternative metal', 'french death metal', 'french metal', 'groove metal', 'metal', 'nu metal', 'progressive metal']",64,0GDGKpJFhVpcjIGF8N6Ewt
+535,Rik Rok,"{'href': None, 'total': 3286}",['reggae fusion'],64,67wCYxOq4A1ohAs7jWYaOJ
+536,Lillias White,"{'href': None, 'total': 5208}","['disney', 'hollywood', 'movie tunes']",61,5TKKPpY9zr2qrz3JM3Vawq
+537,Men At Work,"{'href': None, 'total': 648324}","['album rock', 'australian rock', 'dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock']",66,0f3EsoviYnRKTkmayI3cux
+538,Vaneese Thomas,"{'href': None, 'total': 834}","[ëdisneyí,íhip hopí]",61,79cmm0PKrLWIrqp80GpJtK
+539,Cheryl Freeman,"{'href': None, 'total': 3333}","['disney', 'movie tunes']",61,3E0MPcbZSjfJ1HsnJKXkqd
+540,Gustavo Santaolalla,"{'href': None, 'total': 137303}","['argentine ambient', 'latin classical', 'latin soundtrack', 'scorecore', 'soundtrack', 'video game music']",65,4W3fa7tiXGVXl3KilbACqt
+541,Run‚ÄìD.M.C.,"{'href': None, 'total': 728692}","['east coast hip hop', 'hardcore hip hop', 'hip hop', 'hip house', 'old school hip hop', 'queens hip hop', 'rap']",64,3CQIn7N5CuRDP8wEI7FiDA
+542,Duke Ellington,"{'href': None, 'total': 582271}","['adult standards', 'bebop', 'big band', 'cool jazz', 'jazz', 'jazz piano', 'lounge', 'swing', 'vocal jazz']",63,4F7Q5NV6h5TSwCainz8S5A
+543,Billy Squier,"{'href': None, 'total': 387918}","['album rock', 'classic rock', 'country rock', 'glam metal', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",58,3Fz2GbraVXhcpXnoi2Oe1r
+544,Fiona Apple,"{'href': None, 'total': 570832}","['art pop', 'chamber pop', 'indie pop', 'lilith', 'permanent wave', 'piano rock', 'pop rock', 'singer-songwriter']",60,3g2kUQ6tHLLbmkV7T4GPtL
+545,Aaliyah,"{'href': None, 'total': 2063094}","['dance pop', 'hip hop', 'hip pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']",62,0urTpYCsixqZwgNTkPJOJ4
+546,The Roots,"{'href': None, 'total': 867614}","['alternative hip hop', 'conscious hip hop', 'east coast hip hop', 'hardcore hip hop', 'hip hop', 'philly rap', 'southern hip hop']",63,78xUyw6FkVZrRAtziFdtdu
+547,John Powell,"{'href': None, 'total': 102251}","['british soundtrack', 'scorecore', 'soundtrack', 'video game music']",64,3EAHF3jdnHHdko5DBrhRUP
+548,The Decemberists,"{'href': None, 'total': 454078}","['baroque pop', 'canadian indie', 'chamber pop', 'indie folk', 'indie pop', 'indie rock', 'modern folk rock', 'modern rock', 'stomp and holler']",59,7ITd48RbLVpUfheE7B86o2
+549,Camille Saint-Sa√´ns,"{'href': None, 'total': 204342}","['classical', 'late romantic era']",64,436sYg6CZhNefQJogaXeK0
